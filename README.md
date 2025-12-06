@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.VOYAGE one word domai
 
 | Domain            | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ----------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.voyage        | available | 70       | 38%    | 3      |           |         |         |
+| aaa.voyage        | premium   | 70       | 38%    | 3      |           |         |         |
 | aaron.voyage      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.voyage  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.voyage      | available | 43       | 2%     | 5      |           |         |         |
