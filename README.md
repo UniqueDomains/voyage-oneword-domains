@@ -67,19 +67,19 @@ print(df.head())
 | silver.voyage    | available | $73.98    | —             | 56             | 99     | 6      | namecheap                                                 |
 | get.voyage       | resell    | —         | —             | 88             | 69     | 3      | Porkbun LLC                                               |
 | business.voyage  | premium   | $128.70   | $128.70       | 100            | 53     | 8      | namecheap                                                 |
-| free.voyage      | available | $9.99     | $83.99        | 88             | 59     | 4      | name.com                                                  |
+| free.voyage      | available | $9.99     | $83.99        | 88             | 57     | 4      | name.com                                                  |
 | mail.voyage      | resell    | —         | —             | 94             | 59     | 4      | Dynadot Inc                                               |
 | air.voyage       | premium   | $85.80    | $85.80        | 84             | 49     | 3      | namecheap                                                 |
 | zero.voyage      | available | $9.99     | $83.99        | 112            | 53     | 4      | name.com                                                  |
 | cloud.voyage     | resell    | —         | —             | 70             | 59     | 5      | Sav.com, LLC - 5                                          |
 | insurance.voyage | premium   | $85.80    | $85.80        | 76             | 44     | 9      | namecheap                                                 |
-| fast.voyage      | available | $9.99     | $83.99        | 82             | 53     | 4      | name.com                                                  |
+| fast.voyage      | available | $9.99     | $83.99        | 82             | 52     | 4      | name.com                                                  |
 | dot.voyage       | resell    | —         | —             | 74             | 58     | 3      | Sav.com, LLC                                              |
 | aaa.voyage       | premium   | $128.70   | $128.70       | 70             | 42     | 3      | namecheap                                                 |
-| real.voyage      | available | $73.98    | —             | 78             | 49     | 4      | namecheap                                                 |
+| simple.voyage    | available | $9.99     | $83.99        | 128            | 49     | 6      | name.com                                                  |
 | smart.voyage     | resell    | —         | —             | 74             | 56     | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
 | first.voyage     | premium   | $83.99    | $82.50        | 80             | 41     | 5      | name.com                                                  |
-| simple.voyage    | available | $9.99     | $83.99        | 128            | 48     | 6      | name.com                                                  |
+| real.voyage      | available | $73.98    | —             | 78             | 49     | 4      | namecheap                                                 |
 | book.voyage      | resell    | —         | —             | 82             | 55     | 4      | Dynadot Inc                                               |
 | tour.voyage      | premium   | $85.80    | $85.80        | 72             | 35     | 4      | namecheap                                                 |
 | all.voyage       | available | $9.99     | $83.99        | 88             | 48     | 3      | name.com                                                  |
