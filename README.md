@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .voyage one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,563 domains · **Median ask:** $15.48 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/voyage`  
 **Best for:** founders, investors, studios
 
@@ -64,9 +64,9 @@ print(df.head())
 
 | domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| Ryan.voyage         | available | $73.98    | —             | 60             | 44     | 4      | namecheap |
+| whynot.voyage       | available | $9.99     | —             | 74             | 44     | 7      | name.com  |
 | agents.voyage       | premium   | $500      | —             | 56             | 50     | 6      | name.com  |
-| whynot.voyage       | available | $9.99     | —             | 74             | 39     | 7      | name.com  |
+| Ryan.voyage         | available | $73.98    | —             | 60             | 44     | 4      | namecheap |
 | restaurants.voyage  | premium   | $123.75   | —             | 57             | 21     | 11     | name.com  |
 | WiFi.voyage         | available | $73.98    | —             | 83             | 37     | 5      | namecheap |
 | neuroscience.voyage | available | $9.99     | —             | 80             | 37     | 12     | name.com  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VOYAGE One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VOYAGE One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
