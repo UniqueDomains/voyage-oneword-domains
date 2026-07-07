@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .voyage one-word domains fr
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,563 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,563 domains · **Median ask:** $15.48 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,563 domains · **Median ask:** $11.94 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/voyage`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/voyage`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .VOYAGE one-word domai
 
 ### Files
 
-- `voyage.csv` — public CSV extract (1,000 rows)
-- `voyage.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `voyage.csv`, public CSV extract (1,000 rows)
+- `voyage.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| whynot.voyage       | available | $9.99     | —             | 74             | 44     | 7      | name.com  |
-| agents.voyage       | premium   | $500      | —             | 56             | 50     | 6      | name.com  |
-| Ryan.voyage         | available | $73.98    | —             | 60             | 44     | 4      | namecheap |
-| restaurants.voyage  | premium   | $123.75   | —             | 57             | 21     | 11     | name.com  |
-| WiFi.voyage         | available | $73.98    | —             | 83             | 37     | 5      | namecheap |
-| neuroscience.voyage | available | $9.99     | —             | 80             | 37     | 12     | name.com  |
-| stories.voyage      | available | $9.99     | —             | 58             | 36     | 7      | name.com  |
-| aliens.voyage       | available | $9.99     | —             | 56             | 35     | 6      | name.com  |
-| homes.voyage        | available | $9.99     | —             | 86             | 34     | 5      | name.com  |
-| etc.voyage          | available | $9.99     | —             | 58             | 34     | 3      | name.com  |
-| letsgo.voyage       | available | $9.99     | —             | 57             | 31     | 7      | name.com  |
-| inspiration.voyage  | available | $9.99     | —             | 88             | 30     | 11     | name.com  |
-| Jim.voyage          | available | $73.98    | —             | 78             | 28     | 3      | namecheap |
-| dogs.voyage         | available | $9.99     | —             | 76             | 28     | 4      | name.com  |
-| photos.voyage       | available | $9.99     | —             | 54             | 28     | 6      | name.com  |
-| trades.voyage       | available | $9.99     | —             | 71             | 26     | 6      | name.com  |
-| doctors.voyage      | available | $9.99     | —             | 56             | 26     | 7      | name.com  |
-| Keith.voyage        | available | $73.98    | —             | 66             | 25     | 5      | namecheap |
-| Trex.voyage         | available | $73.98    | —             | 80             | 24     | 5      | namecheap |
-| chem.voyage         | available | $9.99     | —             | 74             | 24     | 4      | name.com  |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| apt.voyage     | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| hub.voyage     | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                                               |
+| net.voyage     | premium   | $500      | —             | high           | medium | 3      | name.com                                                  |
+| bow.voyage     | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| deep.voyage    | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 20                                         |
+| NYC.voyage     | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo                                                  |
+| boy.voyage     | available | $9.99     | —             | medium         | low    | 3      | name.com                                                  |
+| game.voyage    | resell    | —         | —             | high           | medium | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
+| asia.voyage    | premium   | $500      | —             | high           | low    | 4      | name.com                                                  |
+| dig.voyage     | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| virtual.voyage | resell    | —         | —             | medium         | medium | 7      | Spaceship, Inc.                                           |
+| sell.voyage    | premium   | $118.80   | $118.80       | high           | medium | 4      | namesilo                                                  |
+| DJI.voyage     | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| ticket.voyage  | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo                                                  |
+| due.voyage     | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| gourmet.voyage | premium   | $123.75   | —             | high           | low    | 7      | name.com                                                  |
+| end.voyage     | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| premier.voyage | premium   | $118.80   | $118.80       | high           | low    | 7      | namesilo                                                  |
+| era.voyage     | available | $9.99     | —             | high           | medium | 3      | name.com                                                  |
+| premium.voyage | premium   | $118.80   | $118.80       | high           | low    | 7      | namesilo                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of .voyage domains. The set spans broad dictionary words, action words, abstract terms, and longer keyword combinations, as seen in examples like tree.voyage, develop.voyage, period.voyage, and blooddonation.voyage. For founders, the best picks are usually the names that are easy to say, easy to remember, and closely matched to travel, journeys, experiences, or movement. For investors, the main question is whether the keyword and the .voyage extension make sense together at the ask. With a median ask of 15.48, the practical edge comes from avoiding weak word-extension matches and prioritizing clear commercial fit.
+Each name in this .voyage set pairs a short, ownable word with a niche extension often tied to travel, motion, and adventure branding. With a median ask near $12, most listings sit close to standard registration pricing, which makes side-by-side comparison straightforward. When comparing these domains, weigh word clarity, spelling simplicity, and thematic fit against the asking price and renewal cost before choosing one.
 
-- All domains in this selection use the .voyage extension
-- Median ask is 15.48 across 12,562 listed domains
-- Range includes broad words and longer keyword combinations
-- Best picks usually have a strong word-to-extension fit
+- 12,563 one-word .voyage domains in this set
+- Median ask near $12 — standard registration range
+- Mix of playful, descriptive, and action-based names
+- Compare brandability, spelling ease, and renewal cost
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VOYAGE One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VOYAGE One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
