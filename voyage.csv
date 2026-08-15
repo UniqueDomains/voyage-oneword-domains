@@ -37,7 +37,7 @@ d7c25696-4771-420f-a225-dd8344dbb7de,sharpeyed.voyage,available,9.99,83.99,low,l
 f6a70399-8339-4028-a747-9dce10c8bb83,commodity.voyage,available,9.99,,high,low,9,name.com,,
 55850c84-d300-46dc-b1c0-565d39a96ed6,andalusian.voyage,available,9.99,83.99,low,low,10,name.com,,
 4588f7f6-c2fc-4775-837a-0f3188aea133,lowtech.voyage,available,9.99,,medium,low,8,name.com,,
-9a4f651e-f0cf-4db9-8923-d0b20e3dd919,exercise.voyage,available,9.99,,high,low,8,name.com,,
+9a4f651e-f0cf-4db9-8923-d0b20e3dd919,exercise.voyage,available,9.99,83.99,medium,low,8,name.com,,
 8f1ad34d-2bc6-4fe7-956e-38d7e38888fc,luxembourg.voyage,available,,,medium,low,10,,,
 9c110667-d494-4613-883b-81287c36a774,silverring.voyage,available,9.99,,low,low,11,name.com,,
 c98be79d-e658-41bb-b738-ae858be943cd,anachronic.voyage,available,9.99,83.99,low,low,10,name.com,,
@@ -47,7 +47,7 @@ c98be79d-e658-41bb-b738-ae858be943cd,anachronic.voyage,available,9.99,83.99,low,
 eb76894a-5e23-4b50-9661-f5217397dd02,screwloose.voyage,available,9.99,,low,low,11,name.com,,
 be73aa7b-4cf1-454b-9639-5d02d46d2332,manykinded.voyage,available,9.99,,medium,low,11,name.com,,
 16c73b6c-54f2-47ed-890a-2c12a2e0b11e,airtoair.voyage,available,9.99,83.99,low,low,10,name.com,,
-a7dfade0-4816-4bde-9d54-8b81ca1768ef,virtual.voyage,resell,,,medium,low,7,"Spaceship, Inc.",26/02/2014 16:00,26/02/2027 16:00
+a7dfade0-4816-4bde-9d54-8b81ca1768ef,virtual.voyage,resell,,,medium,medium,7,"Spaceship, Inc.",26/02/2014 16:00,26/02/2027 16:00
 81be5e3b-39ad-478f-9e05-9d4813eaf885,empowering.voyage,available,9.99,,high,low,10,name.com,,
 cd88bca2-956f-471c-9af6-b42a8528d46f,orange.voyage,available,,,high,low,6,,,
 a4869a72-00b0-408a-bb84-17e6fc752f27,stemless.voyage,available,9.99,83.99,low,low,8,name.com,,
