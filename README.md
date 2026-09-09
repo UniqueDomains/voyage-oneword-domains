@@ -1,10 +1,10 @@
-# Available .VOYAGE One-Word Domains (20,690)
+# Available .VOYAGE One-Word Domains (21,127)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-20%2C690%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-21%2C127%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .voyage one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **20,690 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **21,127 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 20,690 domains · **Median ask:** $13.27 · **High-demand under $2,500:** 3
+**Public extract:** 1,000 rows · **Live catalog:** 21,127 domains · **Median ask:** $14.30 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-08
+**Last updated:** 2026-09-09
 **Canonical page:** `https://unique.domains/domains/tld/voyage`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| apt.voyage     | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
-| hub.voyage     | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                                               |
-| net.voyage     | premium   | $500      | —             | high           | medium | 3      | name.com                                                  |
-| bow.voyage     | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
-| deep.voyage    | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 20                                         |
-| NYC.voyage     | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo                                                  |
-| boy.voyage     | available | $9.99     | —             | medium         | low    | 3      | name.com                                                  |
-| game.voyage    | resell    | —         | —             | high           | medium | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
-| asia.voyage    | premium   | $500      | —             | high           | low    | 4      | name.com                                                  |
-| clv.voyage     | available | $9.99     | $83.99        | low            | low    | 3      | name.com                                                  |
-| virtual.voyage | resell    | —         | —             | medium         | low    | 7      | Spaceship, Inc.                                           |
-| sell.voyage    | premium   | $118.80   | $118.80       | high           | medium | 4      | namesilo                                                  |
-| clx.voyage     | available | $9.99     | $83.99        | low            | low    | 3      | name.com                                                  |
-| ticket.voyage  | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo                                                  |
-| dig.voyage     | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
-| gourmet.voyage | premium   | $123.75   | —             | high           | low    | 7      | name.com                                                  |
-| DJI.voyage     | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
-| premier.voyage | premium   | $118.80   | $118.80       | high           | low    | 7      | namesilo                                                  |
-| due.voyage     | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
-| premium.voyage | premium   | $118.80   | $118.80       | high           | low    | 7      | namesilo                                                  |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| environment.voyage | available | $9.99     | —             | high           | low    | 11     | name.com                                                  |
+| half.voyage        | available | $9.99     | —             | high           | low    | 4      | name.com                                                  |
+| apt.voyage         | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| hub.voyage         | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                                               |
+| net.voyage         | premium   | $500      | —             | high           | medium | 3      | name.com                                                  |
+| bow.voyage         | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| deep.voyage        | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 20                                         |
+| NYC.voyage         | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo                                                  |
+| boy.voyage         | available | $9.99     | —             | medium         | low    | 3      | name.com                                                  |
+| game.voyage        | resell    | —         | —             | high           | medium | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
+| asia.voyage        | premium   | $500      | —             | high           | low    | 4      | name.com                                                  |
+| clv.voyage         | available | $9.99     | $83.99        | low            | low    | 3      | name.com                                                  |
+| virtual.voyage     | resell    | —         | —             | medium         | low    | 7      | Spaceship, Inc.                                           |
+| sell.voyage        | premium   | $118.80   | $118.80       | high           | medium | 4      | namesilo                                                  |
+| clx.voyage         | available | $9.99     | $83.99        | low            | low    | 3      | name.com                                                  |
+| ticket.voyage      | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo                                                  |
+| dig.voyage         | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| gourmet.voyage     | premium   | $123.75   | —             | high           | low    | 7      | name.com                                                  |
+| DJI.voyage         | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| premier.voyage     | premium   | $118.80   | $118.80       | high           | low    | 7      | namesilo                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 20,690 live domains                        |
+| 1,000-row public sample | 21,127 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 3 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VOYAGE One-Word Domains*. Version 2026-09-08. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VOYAGE One-Word Domains*. Version 2026-09-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
