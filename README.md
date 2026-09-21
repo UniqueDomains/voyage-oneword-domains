@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .voyage one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 29,073 domains · **Median ask:** $28.51 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-20
+**Last updated:** 2026-09-21
 **Canonical page:** `https://unique.domains/domains/tld/voyage`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,12 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| half.voyage    | available | $9.99     | —             | high           | low    | 4      | name.com                                                  |
+| correct.voyage | available | $9.99     | $83.99        | high           | low    | 7      | name.com                                                  |
+| nothing.voyage | available | $9.99     | —             | high           | low    | 7      | name.com                                                  |
+| away.voyage    | available | $9.99     | —             | high           | low    | 4      | name.com                                                  |
+| what.voyage    | available | $9.99     | —             | high           | low    | 4      | name.com                                                  |
+| jesus.voyage   | available | $9.99     | —             | high           | medium | 5      | name.com                                                  |
 | apt.voyage     | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
 | hub.voyage     | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                                               |
 | net.voyage     | premium   | $500      | —             | high           | medium | 3      | name.com                                                  |
@@ -78,12 +84,6 @@ print(df.head())
 | sell.voyage    | premium   | $118.80   | $118.80       | high           | medium | 4      | namesilo                                                  |
 | clx.voyage     | available | $9.99     | $83.99        | low            | low    | 3      | name.com                                                  |
 | ticket.voyage  | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo                                                  |
-| dig.voyage     | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
-| gourmet.voyage | premium   | $123.75   | —             | high           | low    | 7      | name.com                                                  |
-| dji.voyage     | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
-| premier.voyage | premium   | $118.80   | $118.80       | high           | low    | 7      | namesilo                                                  |
-| due.voyage     | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
-| premium.voyage | premium   | $118.80   | $118.80       | high           | low    | 7      | namesilo                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VOYAGE One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VOYAGE One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
