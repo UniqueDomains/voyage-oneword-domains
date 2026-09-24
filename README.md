@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| half.voyage    | available | $9.99     | —             | high           | low    | 4      | name.com                                                  |
-| nothing.voyage | available | $9.99     | —             | high           | low    | 7      | name.com                                                  |
-| what.voyage    | available | $9.99     | —             | high           | low    | 4      | name.com                                                  |
-| jesus.voyage   | available | $9.99     | —             | high           | medium | 5      | name.com                                                  |
-| apt.voyage     | available | $9.99     | $83.99        | low            | low    | 3      | name.com                                                  |
-| link.voyage    | resell    | $9.99     | —             | low            | low    | 4      | name.com                                                  |
-| net.voyage     | premium   | $500      | —             | high           | medium | 3      | name.com                                                  |
-| bow.voyage     | available | $58.99    | $58.99        | medium         | low    | 3      | namesilo                                                  |
-| hub.voyage     | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                                               |
-| nyc.voyage     | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo                                                  |
-| boy.voyage     | available | $9.99     | —             | medium         | low    | 3      | name.com                                                  |
-| deep.voyage    | resell    | —         | —             | low            | low    | 4      | Sav.com, LLC - 20                                         |
-| asia.voyage    | premium   | $500      | —             | high           | low    | 4      | name.com                                                  |
-| clv.voyage     | available | $9.99     | $83.99        | low            | low    | 3      | name.com                                                  |
-| game.voyage    | resell    | —         | —             | medium         | low    | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
-| sell.voyage    | premium   | $118.80   | $118.80       | high           | medium | 4      | namesilo                                                  |
-| clx.voyage     | available | $9.99     | $83.99        | low            | low    | 3      | name.com                                                  |
-| virtual.voyage | resell    | —         | —             | medium         | low    | 7      | Spaceship, Inc.                                           |
-| ticket.voyage  | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo                                                  |
-| dig.voyage     | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| half.voyage    | available | $9.99     | —             | high           | low    | 4      | name.com    |
+| nothing.voyage | available | $9.99     | —             | high           | low    | 7      | name.com    |
+| what.voyage    | available | $9.99     | —             | high           | low    | 4      | name.com    |
+| jesus.voyage   | available | $9.99     | —             | high           | medium | 5      | name.com    |
+| ava.voyage     | available | $9.99     | —             | high           | medium | 3      | name.com    |
+| hub.voyage     | resell    | —         | —             | high           | medium | 3      | Dynadot Inc |
+| net.voyage     | premium   | $500      | —             | high           | medium | 3      | name.com    |
+| axe.voyage     | available | $9.99     | —             | high           | low    | 3      | name.com    |
+| nyc.voyage     | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo    |
+| boy.voyage     | available | $9.99     | —             | high           | low    | 3      | name.com    |
+| xxx.voyage     | premium   | $500      | $500          | high           | medium | 3      | name.com    |
+| clv.voyage     | available | $9.99     | $83.99        | high           | low    | 3      | name.com    |
+| asia.voyage    | premium   | $500      | —             | high           | low    | 4      | name.com    |
+| clx.voyage     | available | $9.99     | $83.99        | medium         | low    | 3      | name.com    |
+| sell.voyage    | premium   | $118.80   | $118.80       | high           | medium | 4      | namesilo    |
+| dig.voyage     | available | $9.99     | —             | high           | low    | 3      | name.com    |
+| budget.voyage  | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo    |
+| dji.voyage     | available | $9.99     | —             | high           | low    | 3      | name.com    |
+| ticket.voyage  | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo    |
+| era.voyage     | available | $9.99     | —             | high           | medium | 3      | name.com    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
