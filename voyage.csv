@@ -1,34 +1,39 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 3e51a379-0ff5-49f1-86b3-552dc79b3336,hue.voyage,available,46.78,46.78,high,low,3,spaceship,,,29/09/2026 18:19
-9a27b36f-9a0a-493a-836a-20fa3c9aef38,gilt.voyage,available,9.99,83.99,high,low,4,name.com,,,18/08/2026 23:34
+9a27b36f-9a0a-493a-836a-20fa3c9aef38,gilt.voyage,available,58.99,58.99,high,low,4,namesilo,,,30/09/2026 04:40
 45520d29-591f-438a-af04-d977ba69baf4,algebraist.voyage,available,58.99,58.99,medium,low,10,namesilo,,,18/09/2026 06:55
 7e9ad743-c6d3-4a1e-9ce9-b39f58d17ddb,sculptor.voyage,available,5.66,46.86,medium,low,8,porkbun,,,30/09/2026 02:48
 eadcba6d-4868-4e53-a305-c0ffff3af46e,literary.voyage,available,58.99,58.99,high,low,8,namesilo,,,28/09/2026 07:59
 4d4d83ed-245e-490f-9a8c-82a7f56db0b0,mainstream.voyage,available,5.66,46.86,high,low,10,porkbun,,,29/09/2026 01:38
 7a5bc681-ee2e-4f7f-838f-fb068340b1bd,kookie.voyage,available,9.99,83.99,medium,low,6,name.com,,,06/08/2026 21:09
+4731f7ee-816e-4b7f-a682-d27a3094a68d,lviv.voyage,available,46.78,46.78,high,low,4,spaceship,,,30/09/2026 21:20
 20355cd3-e02f-4094-b551-6ffda1f11b85,gaylord.voyage,available,58.99,58.99,high,low,7,namesilo,,,29/09/2026 03:38
 bc1d12bf-b2b6-46eb-9bd8-d2f7246f5406,revolutionary.voyage,available,46.78,46.78,high,low,13,spaceship,,,28/09/2026 07:08
 170a978b-b8bd-45a2-9af9-b2e93f9eccaa,sole.voyage,available,46.78,46.78,high,low,4,spaceship,,,27/09/2026 23:42
 99f8b45c-034c-4327-95a1-a816fcfcc924,rats.voyage,available,9.99,,high,low,4,name.com,,,
+6b74ee64-bbb5-46fd-b892-3433db243971,reckoning.voyage,available,61.98,73.98,high,low,9,namecheap,,,30/09/2026 16:48
 7a2215f6-25f7-4447-8917-d3f24e16a9e6,iii.voyage,available,9.99,83.99,high,low,3,name.com,,,
 131bd73b-7e1b-4352-9e13-5e3f82de5dc1,delays.voyage,available,45.2,45.2,low,low,6,cloudflare,,,29/09/2026 17:36
 16066d47-b054-414a-886a-f13414a01efb,robustness.voyage,available,46.78,46.78,high,low,10,spaceship,,,29/09/2026 19:07
 b8317965-4aac-438d-9f77-b4782155c5db,tibetan.voyage,available,9.99,83.99,high,low,7,name.com,,,11/09/2026 15:23
 d5aa5102-66e5-4988-abf4-8994e1d52401,desk.voyage,available,58.99,58.99,high,low,4,namesilo,,,08/09/2026 08:30
 35fbbaa6-12dd-447f-8a4d-f7f9deaa9719,unacceptable.voyage,available,9.99,,medium,low,12,name.com,,,
-60e16fa1-a457-412c-8e79-243d4dffa2bd,booze.voyage,available,58.99,58.99,high,low,5,namesilo,,,24/09/2026 07:21
+60e16fa1-a457-412c-8e79-243d4dffa2bd,booze.voyage,available,58.99,58.99,medium,low,5,namesilo,,,24/09/2026 07:21
 81e1a1bf-6c00-4a0d-8592-c8026401858d,amino.voyage,available,9.99,83.99,high,low,5,name.com,,,
 5f4fed7e-1ddc-4a8b-9b2c-86146249f4e1,bivalent.voyage,available,9.99,83.99,high,low,8,name.com,,,10/08/2026 08:58
 6cbdb4de-62b6-4589-961e-1fc24629ab06,soursop.voyage,available,58.99,58.99,high,low,7,namesilo,,,19/09/2026 10:36
 f3e7e124-3802-4e33-923e-ca4fc40ba870,foolhardy.voyage,available,9.99,83.99,high,low,9,name.com,,,18/08/2026 10:28
 984195b8-bbbd-426c-971a-5006016ce41f,glance.voyage,available,58.99,58.99,high,low,6,namesilo,,,29/09/2026 11:47
+5c158526-3504-4bbd-bd3e-0b98ecbf1e4e,remake.voyage,available,58.99,58.99,high,low,6,namesilo,,,30/09/2026 10:58
 37150b52-6ae2-4bef-a065-e1a76f207fc9,missiles.voyage,available,45.2,45.2,low,low,8,cloudflare,,,28/09/2026 00:20
 55ece179-1093-4eea-8bfd-a3aefc840edd,ioc.voyage,available,45.2,45.2,high,low,3,cloudflare,,,28/09/2026 07:36
+e8c72d6e-1053-4e50-8b1f-b3c55714f299,storylines.voyage,available,46.78,46.78,medium,low,10,spaceship,,,01/10/2026 00:32
 e6fb8fa7-e795-44e8-ab5d-60fdf0b4c38d,stern.voyage,available,61.98,73.98,high,low,5,namecheap,,,22/09/2026 13:25
+be47b27b-85c9-4d7b-bbbb-f7afae9b4a31,licenses.voyage,available,46.78,46.78,medium,low,8,spaceship,,,30/09/2026 15:42
 4a8b3a49-e17c-48ff-a2a3-75d7b1164385,aba.voyage,available,9.99,83.99,high,low,3,name.com,,,16/09/2026 13:42
 8caea748-acac-4205-9694-52490a8b4a14,eighteenth.voyage,available,9.99,83.99,high,low,10,name.com,,,
 60889a07-9530-4afb-81da-218e62c2ede5,preparations.voyage,available,61.98,73.98,medium,low,12,namecheap,,,29/09/2026 05:22
-cc28ff92-a126-4435-b977-cdb19b554a57,cedric.voyage,available,46.78,46.78,high,low,6,spaceship,,,29/09/2026 11:42
+cc28ff92-a126-4435-b977-cdb19b554a57,cedric.voyage,available,46.78,46.78,medium,low,6,spaceship,,,29/09/2026 11:42
 23743926-7caa-45dd-ac49-73eefe0c1144,bakshis.voyage,available,58.99,58.99,medium,low,7,namesilo,,,21/09/2026 15:54
 ed04ccbd-068b-4722-889f-24bea5144534,kee.voyage,available,58.99,58.99,medium,low,3,namesilo,,,30/09/2026 00:37
 ec9889ad-656b-4193-9bd8-aea3f14d78b2,motorsport.voyage,available,58.99,58.99,high,low,10,namesilo,,,17/09/2026 06:38
@@ -38,12 +43,13 @@ ec9889ad-656b-4193-9bd8-aea3f14d78b2,motorsport.voyage,available,58.99,58.99,hig
 81539ee2-2ad0-428a-bb86-9f1d79fc960e,laps.voyage,available,46.78,46.78,medium,low,4,spaceship,,,29/09/2026 05:29
 68a39245-b6be-44fc-bf41-79dbce12d5ed,intruder.voyage,available,5.57,48.37,high,low,8,dynadot,,,29/09/2026 13:09
 0e26e2f5-e766-4143-b828-cb484d2a55a2,convertible.voyage,available,58.99,58.99,high,low,11,namesilo,,,28/09/2026 15:45
-2c4b7a0c-6ee6-473c-84a4-b6949c419e15,susan.voyage,available,9.99,,high,low,5,name.com,,,
+2c4b7a0c-6ee6-473c-84a4-b6949c419e15,susan.voyage,available,45.2,45.2,high,low,5,cloudflare,,,01/10/2026 04:01
 138a9a2d-285a-45f7-abfa-5d5dd3897a0e,capillary.voyage,available,9.99,83.99,high,low,9,name.com,,,11/08/2026 17:53
 6c6c56c6-f1bb-432b-9e0b-d964c375650c,uncles.voyage,available,58.99,58.99,medium,low,6,namesilo,,,20/09/2026 08:48
 34bb337c-faf5-49c6-a1b7-5f573a3c06fc,suspicions.voyage,available,58.99,58.99,medium,low,10,namesilo,,,18/09/2026 08:04
 b07690e9-05d9-4c60-b04c-ed77be181493,slipped.voyage,available,58.99,58.99,high,low,7,namesilo,,,18/09/2026 02:25
 b92c3ea7-f0c2-474b-9831-6dd80c2757d7,vexatious.voyage,available,,,medium,low,9,,,,
+f7181670-1a65-4e56-90c9-6b4ee5dd8e78,awoke.voyage,available,61.98,73.98,medium,low,5,namecheap,,,30/09/2026 14:18
 e2297c78-ce77-4af4-8845-41c450a08f1c,bangladeshi.voyage,available,58.99,58.99,high,low,11,namesilo,,,30/09/2026 03:22
 25c0a168-d2da-4ec3-946b-210a4f8177f4,meridional.voyage,available,9.99,83.99,high,low,10,name.com,,,24/08/2026 20:52
 3cb6ed79-7493-4e5e-b55f-9861f2a88115,unpaved.voyage,available,58.99,58.99,medium,low,7,namesilo,,,12/09/2026 16:34
@@ -53,8 +59,10 @@ d9177ee8-ab75-453e-a69a-8954f66bdb87,bike.voyage,available,58.99,58.99,high,low,
 8faaba38-88ac-4480-8c76-642f5597f092,ideals.voyage,available,46.78,46.78,medium,low,6,spaceship,,,29/09/2026 05:10
 f96e284d-90b3-4bd3-a060-22076791a2d4,yams.voyage,available,58.99,58.99,medium,low,4,namesilo,,,19/09/2026 22:19
 e7f63bb4-46c2-4666-8f2e-7f05cca36076,viewing.voyage,available,5.66,46.86,high,low,7,porkbun,,,29/09/2026 02:05
+d8dfda36-7dba-45a7-9190-71a5bdef831d,reo.voyage,available,45.2,45.2,medium,low,3,cloudflare,,,30/09/2026 19:33
 8cfabbdd-5690-4ee7-8aa3-cdc405565cc2,aruru.voyage,available,58.99,58.99,medium,low,5,namesilo,,,20/09/2026 12:26
 149181a3-9c5c-4401-ae84-ae1f28523b90,citrous.voyage,available,58.99,58.99,medium,low,7,namesilo,,,25/09/2026 05:54
+11f97f15-0f80-4ddf-b67c-48eb33fa43de,gallows.voyage,available,58.99,58.99,medium,low,7,namesilo,,,30/09/2026 09:52
 022da394-b244-4dc2-b755-96ff8eb708aa,helpful.voyage,available,9.99,83.99,high,low,7,name.com,,,21/08/2026 06:37
 bbb11fed-6a8e-469f-ac36-412ae5c04267,traction.voyage,available,46.78,46.78,high,low,8,spaceship,,,28/09/2026 18:33
 510a085a-bc35-44c1-9618-6228e3f0083f,amalgamate.voyage,available,58.99,58.99,high,low,10,namesilo,,,22/09/2026 03:01
@@ -65,7 +73,7 @@ d1435012-6ced-4731-9180-f489f14d42e3,eisenhower.voyage,available,46.78,46.78,med
 9316d943-4cc1-488b-9a09-17dc3abc4b40,shaft.voyage,available,58.99,58.99,high,low,5,namesilo,,,29/09/2026 01:04
 1f50672c-0407-4757-81d1-3aa890f9fa3a,confusing.voyage,available,61.98,73.98,high,low,9,namecheap,,,23/09/2026 20:14
 f9da09fc-b278-4699-b01b-5052dfc8222c,alliance.voyage,available,58.99,58.99,high,low,8,namesilo,,,18/09/2026 07:42
-408edb74-277b-430b-955c-4d31c77734bf,payment.voyage,available,58.99,58.99,high,medium,7,namesilo,,,28/09/2026 08:59
+408edb74-277b-430b-955c-4d31c77734bf,payment.voyage,available,58.99,58.99,high,medium,7,namesilo,,,30/09/2026 15:12
 13be02b2-e5c3-4b31-9f84-38448eb13158,mutter.voyage,available,58.99,58.99,high,low,6,namesilo,,,03/09/2026 11:12
 f2bbf14a-81f5-4e40-b616-9b852ddbbce1,teresa.voyage,available,61.98,73.98,high,low,6,namecheap,,,17/09/2026 18:40
 fafedaab-3349-44a9-88c4-7698ee204d99,unifying.voyage,available,9.99,83.99,high,low,8,name.com,,,12/08/2026 22:44
@@ -79,15 +87,17 @@ cb4c9b24-ca12-41a0-9958-bbb31d7d0202,pressure.voyage,available,58.99,58.99,high,
 89ce0dc0-d3e8-4bfa-9ff7-d299e9a095ca,pods.voyage,available,58.99,58.99,medium,low,4,namesilo,,,30/09/2026 00:30
 8c939dc2-1c6c-4eb7-adb1-50d04a4d7cfd,novelist.voyage,available,45.2,45.2,high,low,8,cloudflare,,,29/09/2026 01:44
 91228fe2-b472-4340-9e86-4542f94dea7d,saint.voyage,available,58.99,58.99,high,low,5,namesilo,,,25/09/2026 23:06
+34a90189-a62a-43fd-8bae-5522f0f8eb5e,paternity.voyage,available,45.2,45.2,high,low,9,cloudflare,,,01/10/2026 02:01
 0f711994-aaaf-4643-9cd9-b409b84374ba,beekeeping.voyage,available,58.99,58.99,high,low,10,namesilo,,,19/09/2026 17:24
 75ffd61e-9175-4c54-bc3d-a690be19cfd0,occurring.voyage,available,9.99,,high,low,9,name.com,,,
-ce0c9dd7-b708-4781-a48f-30802ce309c1,montane.voyage,available,9.99,83.99,high,low,7,name.com,,,25/08/2026 05:41
+ce0c9dd7-b708-4781-a48f-30802ce309c1,montane.voyage,available,9.99,83.99,medium,low,7,name.com,,,25/08/2026 05:41
 86c6a05f-0486-4d78-bd65-7235bcb0dbac,encodes.voyage,available,5.66,46.86,low,low,7,porkbun,,,28/09/2026 17:50
 6a7f43d7-e114-4d23-a7c4-b6ffb78b591a,pulpit.voyage,available,61.98,73.98,high,low,6,namecheap,,,18/09/2026 17:14
 6c0d8ac2-85d0-4683-be9e-f5a079e8138c,egregious.voyage,available,9.99,83.99,medium,low,9,name.com,,,15/08/2026 19:48
 932673d8-5f9d-45e9-be5f-9ef9ba41d921,mongol.voyage,available,9.99,83.99,high,low,6,name.com,,,25/08/2026 04:45
 696d02d8-2133-4cc8-890f-cb3155aa9c1e,lupine.voyage,available,9.99,83.99,high,low,6,name.com,,,24/08/2026 11:39
 ab8a3a0d-974c-461c-b167-bc242374da54,distortion.voyage,available,58.99,58.99,high,low,10,namesilo,,,11/09/2026 21:55
+298d76f2-283b-481e-8273-d60a87ba6475,simultaneous.voyage,available,5.57,48.37,high,low,12,dynadot,,,30/09/2026 06:08
 026a57b6-d839-4360-a846-62ee06788a6a,membered.voyage,available,9.99,83.99,medium,low,8,name.com,,,24/08/2026 19:49
 78d57a55-e314-4b87-a49c-da6203da5c02,fumbling.voyage,available,9.99,83.99,medium,low,8,name.com,,,11/08/2026 10:05
 29ec0412-60ae-435c-875b-ed246b186e17,entry.voyage,available,58.99,58.99,high,low,5,namesilo,,,08/09/2026 09:43
@@ -95,8 +105,10 @@ ab8a3a0d-974c-461c-b167-bc242374da54,distortion.voyage,available,58.99,58.99,hig
 68df32db-8597-4c2b-8335-47a6d07bf4df,unleavened.voyage,available,58.99,58.99,medium,low,10,namesilo,,,12/09/2026 14:46
 c1812d61-4a84-4441-9129-e3c3fe1763f6,variegate.voyage,available,9.99,83.99,medium,low,9,name.com,,,25/08/2026 08:26
 094a4d84-05d0-41eb-9ae7-b02336f7d232,unnatural.voyage,available,9.99,83.99,medium,low,9,name.com,,,
-512f7b8b-a989-4975-8102-3d51ab791ab1,curled.voyage,available,9.99,83.99,high,low,6,name.com,,,13/08/2026 11:19
-ac778d98-2802-419c-bff1-2e28f46bb4c8,unclogged.voyage,available,58.99,58.99,high,low,9,namesilo,,,12/09/2026 05:28
+512f7b8b-a989-4975-8102-3d51ab791ab1,curled.voyage,available,9.99,83.99,medium,low,6,name.com,,,13/08/2026 11:19
+b3d60bcf-9a43-4c67-a2d8-b8e326037e9a,digs.voyage,available,45.2,45.2,high,low,4,cloudflare,,,30/09/2026 16:59
+c283f5b3-d96a-4a4a-bab5-14fe45559fd7,camden.voyage,available,5.66,46.86,high,low,6,porkbun,,,30/09/2026 16:35
+ac778d98-2802-419c-bff1-2e28f46bb4c8,unclogged.voyage,available,58.99,58.99,medium,low,9,namesilo,,,12/09/2026 05:28
 2db98282-caf4-461d-8df6-f2c8697daa97,inwards.voyage,available,9.99,83.99,high,low,7,name.com,,,21/08/2026 23:32
 e546e63d-0188-477d-b23a-bf90b853a36f,jabber.voyage,available,45.2,45.2,high,low,6,cloudflare,,,29/09/2026 20:23
 e8bf86db-19dd-42a9-93eb-d9a9b38836d1,anatidae.voyage,available,61.98,73.98,medium,low,8,namecheap,,,19/09/2026 03:26
@@ -107,21 +119,23 @@ ca941272-6c13-45d2-83dd-57f613ec60e2,mule.voyage,available,46.78,46.78,high,low,
 7bb28439-ee43-4394-9572-610bfb9b9162,root.voyage,available,58.99,58.99,high,medium,4,namesilo,,,22/09/2026 05:53
 b7f062e7-80a3-4607-821e-9bc3e9aa2f22,nurtural.voyage,available,58.99,58.99,medium,low,8,namesilo,,,03/09/2026 23:07
 bfffbdaf-960a-4839-8cab-931a32e23440,unbolted.voyage,available,58.99,58.99,medium,low,8,namesilo,,,12/09/2026 01:36
-ba5a9017-033e-4774-ba1f-05ca0cbfee89,mechanized.voyage,available,61.98,73.98,high,low,10,namecheap,,,19/09/2026 16:26
+ba5a9017-033e-4774-ba1f-05ca0cbfee89,mechanized.voyage,available,61.98,73.98,medium,low,10,namecheap,,,19/09/2026 16:26
 200fa33a-4ee1-402e-9d27-bd9720b0229d,armed.voyage,available,58.99,58.99,high,low,5,namesilo,,,22/09/2026 07:55
 fe75ae75-db9d-4d68-a725-2f5680045489,mckinley.voyage,available,58.99,58.99,high,low,8,namesilo,,,25/09/2026 04:51
+c5fd00eb-e723-45d6-9b0d-97a08e86327d,disrespectful.voyage,available,45.2,45.2,medium,low,13,cloudflare,,,30/09/2026 19:29
 6f071faf-6e67-4184-8d9b-65282a650449,allan.voyage,available,61.98,73.98,high,low,5,namecheap,,,28/09/2026 16:24
+9145e192-dffb-41ca-a4bf-4142dcd9ed7f,swimmers.voyage,available,45.2,45.2,medium,low,8,cloudflare,,,30/09/2026 14:58
 e774c571-d9a2-4d97-888c-da1d41db268e,respite.voyage,available,58.99,58.99,high,low,7,namesilo,,,16/09/2026 14:06
-be551471-0d74-465d-b301-50b975a680c8,representing.voyage,available,61.98,73.98,high,low,12,namecheap,,,28/09/2026 11:27
+be551471-0d74-465d-b301-50b975a680c8,representing.voyage,available,61.98,73.98,medium,low,12,namecheap,,,28/09/2026 11:27
 fbecb92e-d443-42fc-9ea7-f51d1019cfc9,cernuous.voyage,available,9.99,83.99,medium,low,8,name.com,,,12/08/2026 00:44
-49dc7869-5407-4be5-bd4d-c9b4e6307fc0,hieroglyph.voyage,available,9.99,83.99,high,low,10,name.com,,,21/08/2026 08:33
+49dc7869-5407-4be5-bd4d-c9b4e6307fc0,hieroglyph.voyage,available,9.99,83.99,medium,low,10,name.com,,,21/08/2026 08:33
 f7ed204a-83fc-4e7c-992f-8391b3d32767,jump.voyage,available,58.99,58.99,high,low,4,namesilo,,,22/09/2026 02:34
 77700c7b-e967-4781-b39e-90e1b7352af9,vanquish.voyage,available,9.99,83.99,high,low,8,name.com,,,09/08/2026 05:32
 c7ac0b14-3f0b-4269-9e27-19c951428560,injuries.voyage,available,46.78,46.78,low,low,8,spaceship,,,27/09/2026 21:38
 42592f44-0780-427d-a365-7ed372a6c3b3,chervil.voyage,available,61.98,73.98,medium,low,7,namecheap,,,19/09/2026 13:55
 2684f5b4-f4a8-4009-acb6-b5377b5d8568,connate.voyage,available,9.99,83.99,medium,low,7,name.com,,,12/08/2026 15:46
 614021ed-256d-416a-874b-e99c335b5bac,swim.voyage,available,58.99,58.99,high,low,4,namesilo,,,28/09/2026 02:10
-96401812-e707-4d54-98fd-836be58d94c1,sevenfold.voyage,available,58.99,58.99,high,low,9,namesilo,,,10/09/2026 04:25
+96401812-e707-4d54-98fd-836be58d94c1,sevenfold.voyage,available,58.99,58.99,medium,low,9,namesilo,,,10/09/2026 04:25
 c207fa43-beb7-4e9d-a175-f992085e29c9,vivaldi.voyage,available,61.98,73.98,medium,low,7,namecheap,,,19/09/2026 15:40
 5ccaa585-b890-4d8f-8050-006c85ea158a,acicular.voyage,available,9.99,83.99,medium,low,8,name.com,,,
 5261cdbb-4095-4c69-b90e-98346b873666,keating.voyage,available,58.99,58.99,high,low,7,namesilo,,,27/09/2026 08:01
@@ -134,46 +148,54 @@ b4531bb3-a919-4931-90dc-a157fc4f1aa6,weaving.voyage,available,58.99,58.99,high,l
 16213d46-e11f-40f3-8b51-4d58ecf3b89a,cervical.voyage,available,9.99,83.99,high,low,8,name.com,,,12/08/2026 00:58
 7bdeabd3-a866-44c5-bece-dc729d069434,policies.voyage,available,58.99,58.99,medium,low,8,namesilo,,,04/09/2026 07:55
 57174752-e24c-44f3-bd91-3f56d39a18b6,terse.voyage,available,9.99,83.99,medium,low,5,name.com,,,22/08/2026 18:16
+009215bc-885b-4c7c-b3f4-0005c95256dc,clements.voyage,available,61.98,73.98,high,low,8,namecheap,,,30/09/2026 13:46
 a185bce0-f3b9-4140-9374-d69018152737,riemann.voyage,available,58.99,58.99,high,low,7,namesilo,,,23/09/2026 09:54
 c8fcfe86-08ff-420c-b297-4b41def9f3fa,sufferer.voyage,available,58.99,58.99,high,low,8,namesilo,,,24/09/2026 22:36
 4acbc329-f2d1-4202-a32d-c7942b355f25,convinced.voyage,available,9.99,,high,low,9,name.com,,,
 feea369f-e6b6-43bc-af6f-e6f15d880a92,illicit.voyage,available,9.99,83.99,high,low,7,name.com,,,21/08/2026 19:50
-d729ced2-416c-4131-aa57-067a87416832,schuyler.voyage,available,5.57,48.37,high,low,8,dynadot,,,28/09/2026 04:05
+d729ced2-416c-4131-aa57-067a87416832,schuyler.voyage,available,5.57,48.37,medium,low,8,dynadot,,,28/09/2026 04:05
 8a7a2a25-f238-4999-a951-785127da2ec2,arcadic.voyage,available,58.99,58.99,medium,low,7,namesilo,,,20/09/2026 01:36
-9cdff2d7-cf06-48f5-9cc5-fc97947ea4f6,gustav.voyage,available,61.98,73.98,high,low,6,namecheap,,,25/09/2026 21:40
+9cdff2d7-cf06-48f5-9cc5-fc97947ea4f6,gustav.voyage,available,61.98,73.98,medium,low,6,namecheap,,,25/09/2026 21:40
 261cf790-4261-49cc-bb81-2ef16dd2a67a,playaround.voyage,available,58.99,58.99,medium,low,11,namesilo,,,17/09/2026 06:03
-81679f04-1b46-455b-97ec-253c88b1f831,disciples.voyage,available,58.99,58.99,high,low,9,namesilo,,,29/09/2026 16:57
+81679f04-1b46-455b-97ec-253c88b1f831,disciples.voyage,available,58.99,58.99,medium,low,9,namesilo,,,29/09/2026 16:57
 23feb8b4-98ac-412c-ae3a-4a8ab05cdd88,complimentary.voyage,available,45.2,45.2,high,low,13,cloudflare,,,30/09/2026 04:02
 06ab01dd-7cbb-4a70-94c2-0e4fc9fee470,underfoot.voyage,available,58.99,58.99,medium,low,9,namesilo,,,16/09/2026 09:56
 6ddca50d-4837-4979-b500-90ba1d96ba2a,cia.voyage,available,58.99,58.99,high,medium,3,namesilo,,,24/09/2026 13:36
 f5636bff-cef5-41b5-b65a-0d9409905550,carroty.voyage,available,9.99,83.99,medium,low,7,name.com,,,11/08/2026 19:48
 aa08e0ef-a6f2-44e8-9de8-401cc5bd5e64,unloosen.voyage,available,9.99,83.99,medium,low,8,name.com,,,18/08/2026 14:36
-73d8be8d-6876-4548-9308-08c08ef8c9ae,they.voyage,available,9.99,,high,low,4,name.com,,,
+caca90de-7276-4db6-9c67-e3cb2cb40325,jur.voyage,available,58.99,58.99,medium,low,3,namesilo,,,30/09/2026 04:32
+73d8be8d-6876-4548-9308-08c08ef8c9ae,they.voyage,available,45.2,45.2,high,low,4,cloudflare,,,30/09/2026 22:20
 76327d72-177a-4fa8-a8ce-f4be2f7566c7,avenger.voyage,available,58.99,58.99,high,low,7,namesilo,,,21/09/2026 08:56
 4483ec85-f2fc-4e88-af5e-43322df976fb,braided.voyage,available,9.99,83.99,high,low,7,name.com,,,11/08/2026 01:28
 e491a2a5-1153-4641-9d9c-41d4cea546c7,chips.voyage,available,45.2,45.2,high,low,5,cloudflare,,,29/09/2026 08:44
 f5ed3338-4027-41d5-9de4-abb7e9b7ee74,triggered.voyage,available,58.99,58.99,medium,low,9,namesilo,,,29/09/2026 05:24
 a4870e8e-02f0-44a2-bd4a-80e32c610e09,franco.voyage,available,58.99,58.99,high,low,6,namesilo,,,29/09/2026 06:44
 6a25dfdf-fe9d-4d04-bfbf-76daa0a1b10f,unfading.voyage,available,58.99,58.99,medium,low,8,namesilo,,,12/09/2026 09:53
-b40e8dc3-c8ca-4d5c-ae34-5c65e18d7ceb,peters.voyage,available,5.57,48.37,high,low,6,dynadot,,,28/09/2026 17:25
+b40e8dc3-c8ca-4d5c-ae34-5c65e18d7ceb,peters.voyage,available,5.57,48.37,medium,low,6,dynadot,,,28/09/2026 17:25
 a103aa4b-0861-43f7-971b-f1b3317fe5ed,stone.voyage,available,58.99,58.99,high,low,5,namesilo,,,19/09/2026 11:54
 77e63893-14a1-485a-ad32-f6d2321f10d6,chalkboards.voyage,available,58.99,58.99,medium,low,11,namesilo,,,19/09/2026 23:25
+837e1803-00b3-4e62-9a38-5336b41b76fd,oops.voyage,available,45.2,45.2,high,low,4,cloudflare,,,01/10/2026 04:35
+c8586791-4f66-477f-a1dd-c91d23bcd864,styria.voyage,available,46.78,46.78,high,low,6,spaceship,,,30/09/2026 21:45
 6c22592e-556b-4070-93f9-dc28edc6536f,jonah.voyage,available,58.99,58.99,high,low,5,namesilo,,,24/09/2026 06:55
 8d8e2576-4f22-44a6-95fb-45598f2c7d06,yamaha.voyage,available,58.99,58.99,high,low,6,namesilo,,,29/09/2026 03:39
+5d71ff9d-8180-4b3a-b9aa-c574a774e543,authoring.voyage,available,46.78,46.78,high,low,9,spaceship,,,30/09/2026 11:46
+d23a36da-fb53-411b-891d-646585837e51,sti.voyage,available,46.78,46.78,high,low,3,spaceship,,,30/09/2026 19:35
 4ecdbbe2-16e4-4d97-a000-c9197bcd8812,batten.voyage,available,58.99,58.99,medium,low,6,namesilo,,,22/09/2026 14:27
 70a718d9-f4d9-46c5-9043-35e1c2ed0200,rapt.voyage,available,9.99,83.99,high,low,4,name.com,,,14/08/2026 23:50
 6311f7d6-8e67-4a74-884f-6e5802cab649,attire.voyage,available,58.99,58.99,high,low,6,namesilo,,,21/09/2026 01:52
+37262ed9-2cbc-4394-a00a-0d7afbdfaa1c,maa.voyage,available,58.99,58.99,high,low,3,namesilo,,,30/09/2026 11:36
 77bbfdf9-ee5d-4325-b046-5f1bd0a3facd,sheriff.voyage,available,58.99,58.99,high,low,7,namesilo,,,27/09/2026 15:50
 79c4bb9e-215b-4de4-8a3a-ce3d78a7bbe9,diane.voyage,available,61.98,73.98,high,low,5,namecheap,,,25/09/2026 19:09
+9c1f8ba5-8e65-4b85-9e32-a6b53922158d,warship.voyage,available,5.57,48.37,medium,low,7,dynadot,,,01/10/2026 01:30
 ab2ad1ec-0d00-43fd-a391-70efc875b6e6,abatic.voyage,available,9.99,83.99,medium,low,6,name.com,,,
 987458fa-c432-4e7c-b0bc-af47a8f1f470,tablet.voyage,available,46.78,46.78,high,low,6,spaceship,,,28/09/2026 20:05
-41440bab-22e1-4e2d-8699-93f8ae4c244c,uproar.voyage,available,46.78,46.78,high,low,6,spaceship,,,29/09/2026 04:35
+41440bab-22e1-4e2d-8699-93f8ae4c244c,uproar.voyage,available,46.78,46.78,medium,low,6,spaceship,,,29/09/2026 04:35
 b5689d08-c3bc-415c-bde2-c743a14b52df,committee.voyage,available,5.66,46.86,high,low,9,porkbun,,,29/09/2026 09:31
 becf5097-ee06-4ae2-9ba3-acf8ea755cac,entering.voyage,available,9.99,83.99,high,low,8,name.com,,,22/08/2026 01:48
 c7be8a9f-a6c5-41a1-95f0-cf8763489008,balboa.voyage,available,61.98,73.98,high,low,6,namecheap,,,21/09/2026 21:24
 2cfc8c04-eb8a-458f-ba26-3e432734e6eb,tornado.voyage,available,58.99,58.99,high,low,7,namesilo,,,29/09/2026 11:57
 92ac7fc0-363a-4bcc-a058-19e65df89ef4,forcible.voyage,available,9.99,83.99,medium,low,8,name.com,,,18/08/2026 11:19
-4d7f3bca-004d-49cb-85ed-a7393602a5cc,amiss.voyage,available,9.99,83.99,high,low,5,name.com,,,
+4d7f3bca-004d-49cb-85ed-a7393602a5cc,amiss.voyage,available,9.99,83.99,medium,low,5,name.com,,,
 a04f746d-f9ad-45b4-8472-c02746bd787f,peptic.voyage,available,58.99,58.99,medium,low,6,namesilo,,,08/09/2026 15:53
 e4e8c006-cf6d-4527-abf1-4c2c4c436475,manful.voyage,available,9.99,83.99,medium,low,6,name.com,,,24/08/2026 14:46
 e763f5b7-7ab3-4f24-bc35-0b8f2f6211b9,someone.voyage,available,58.99,58.99,high,low,7,namesilo,,,25/09/2026 09:13
@@ -194,27 +216,28 @@ e6904388-f5f9-4b29-9d24-259ec1458183,interference.voyage,available,61.98,73.98,m
 d1856050-9e35-436e-80a6-9d82ddd1795a,accurate.voyage,available,58.99,58.99,high,low,8,namesilo,,,21/09/2026 15:59
 0f612a43-41e2-40af-a276-e536ae4c96bd,iterative.voyage,available,9.99,83.99,high,low,9,name.com,,,22/08/2026 11:39
 0d829eee-28b0-4ed5-89e4-235ba9a53a7c,heinz.voyage,available,58.99,58.99,high,low,5,namesilo,,,25/09/2026 07:09
-07aab9c7-3d37-4d1b-bb31-d3afca6ae2e0,sweet.voyage,available,58.99,58.99,high,low,5,namesilo,,,28/09/2026 15:21
+07aab9c7-3d37-4d1b-bb31-d3afca6ae2e0,sweet.voyage,available,46.78,46.78,high,low,5,spaceship,,,30/09/2026 21:35
 af4ed176-65d2-4d45-82ee-fb5de32313ac,described.voyage,available,61.98,73.98,high,low,9,namecheap,,,24/09/2026 06:37
 4e28bd8b-fe53-4a2a-bc31-a9491d0753e8,gary.voyage,available,61.98,73.98,high,low,4,namecheap,,,25/09/2026 06:21
 297aad62-db9c-4c1c-91ec-5d38e95409f1,happily.voyage,available,45.2,45.2,high,low,7,cloudflare,,,28/09/2026 13:29
 b2fc1c17-6b4d-4c1a-8fe7-c7618b9d3a18,gaseous.voyage,available,9.99,83.99,medium,low,7,name.com,,,18/08/2026 20:25
 8c002f60-cd59-4a6c-acbe-21d0238d4295,automatism.voyage,available,58.99,58.99,medium,low,10,namesilo,,,21/09/2026 06:59
-26b20af0-8ca4-40bd-ae3e-fd1fd556c626,rostrum.voyage,available,58.99,58.99,high,low,7,namesilo,,,18/09/2026 17:15
-883b352c-38a6-4cc6-a08f-e05b0b103564,succeed.voyage,available,9.99,,high,low,7,name.com,,,
+26b20af0-8ca4-40bd-ae3e-fd1fd556c626,rostrum.voyage,available,58.99,58.99,medium,low,7,namesilo,,,18/09/2026 17:15
+883b352c-38a6-4cc6-a08f-e05b0b103564,succeed.voyage,available,58.99,58.99,high,low,7,namesilo,,,30/09/2026 16:37
 64d8b8f4-6c5f-4f31-9632-2017df075ea2,anvil.voyage,available,58.99,58.99,high,low,5,namesilo,,,19/09/2026 15:57
 21eb95f3-3bdb-45f8-9936-b131903e0c9a,relating.voyage,available,9.99,,high,low,8,name.com,,,
 88698639-94c9-4b8c-b573-4dbafd86dc0a,mahoe.voyage,available,58.99,58.99,high,low,5,namesilo,,,21/09/2026 21:57
+e97ee996-1e86-44c2-b65b-14d3f6d68bc7,slices.voyage,available,58.99,58.99,medium,low,6,namesilo,,,30/09/2026 15:42
 244e66af-c9bf-4503-a477-c624911a441b,lorenz.voyage,available,58.99,58.99,high,low,6,namesilo,,,28/09/2026 10:12
-9d2714ea-dcb5-473d-b767-f41b647c23cf,laboratory.voyage,available,61.98,73.98,high,low,10,namecheap,,,28/09/2026 06:20
+9d2714ea-dcb5-473d-b767-f41b647c23cf,laboratory.voyage,available,46.78,46.78,high,low,10,spaceship,,,30/09/2026 18:22
 36143468-e3ca-4bd3-b770-33b4e91e969d,marne.voyage,available,58.99,58.99,high,low,5,namesilo,,,29/09/2026 15:38
 623efa17-1eb3-481f-af24-d8c94258b751,cuff.voyage,available,46.78,46.78,medium,low,4,spaceship,,,29/09/2026 00:32
-315cfc92-79a4-4717-b98f-e26c616a6e4f,castro.voyage,available,46.78,46.78,high,low,6,spaceship,,,28/09/2026 09:15
+315cfc92-79a4-4717-b98f-e26c616a6e4f,castro.voyage,available,46.78,46.78,medium,low,6,spaceship,,,28/09/2026 09:15
 ea210f71-5e9a-4e9a-8073-b894fdb33c1b,curatorial.voyage,available,9.99,83.99,high,low,10,name.com,,,13/08/2026 11:03
 f330b360-1cb5-4f32-8345-c369f77e0319,conn.voyage,available,46.78,46.78,high,low,4,spaceship,,,29/09/2026 14:12
 085e738f-b9be-4fd7-9b91-f3e4874a07e7,argo.voyage,available,58.99,58.99,high,low,4,namesilo,,,20/09/2026 04:30
 d70aaa74-4bf0-4c84-8279-f643762747d0,whimsey.voyage,available,58.99,58.99,medium,low,7,namesilo,,,20/09/2026 00:43
-89d7e9bc-e31d-414a-96eb-581303317f1a,pictured.voyage,available,9.99,83.99,high,low,8,name.com,,,14/08/2026 02:14
+89d7e9bc-e31d-414a-96eb-581303317f1a,pictured.voyage,available,9.99,83.99,medium,low,8,name.com,,,14/08/2026 02:14
 8172c329-cf7c-428e-aa3b-10e899a61cd8,responsive.voyage,available,58.99,58.99,high,low,10,namesilo,,,22/09/2026 06:49
 0826493d-05e4-4926-add4-02784cd05405,mandel.voyage,available,45.2,45.2,medium,low,6,cloudflare,,,29/09/2026 16:32
 cd40febd-4ad1-43f4-81d8-b622c017c7b7,araceae.voyage,available,61.98,73.98,medium,low,7,namecheap,,,19/09/2026 23:36
@@ -226,14 +249,18 @@ d2b0004e-b46a-4594-9c44-aa19ac96075e,common.voyage,available,9.99,83.99,high,low
 1fbadace-665f-4dca-beb9-5af5b5bc1b39,alkene.voyage,available,58.99,58.99,medium,low,6,namesilo,,,18/09/2026 08:28
 e397fe75-08f3-435c-886b-ff145c58dfb7,devalued.voyage,available,9.99,83.99,medium,low,8,name.com,,,14/08/2026 05:02
 a186827d-06cd-4717-90fb-dfdb033705a2,fetal.voyage,available,9.99,83.99,high,low,5,name.com,,,18/08/2026 02:16
+f83e4caa-c84e-4ee6-931b-31ebc66f0e77,intolerance.voyage,available,46.78,46.78,medium,low,11,spaceship,,,30/09/2026 14:45
 d4442575-0bc2-4bd8-9136-20f4df54b137,juan.voyage,available,46.78,46.78,high,low,4,spaceship,,,27/09/2026 18:50
 a3871230-6cdd-4346-80f3-5e355252eb55,nettle.voyage,available,58.99,58.99,high,low,6,namesilo,,,24/09/2026 22:02
 01170e0a-678f-4445-86b9-5104c7bf7bd1,elimination.voyage,available,46.78,46.78,high,low,11,spaceship,,,28/09/2026 02:39
 f174b797-958f-41c0-acf7-e3e6fe2728bb,islets.voyage,available,45.2,45.2,medium,low,6,cloudflare,,,29/09/2026 00:10
 44768944-336c-4f36-99b7-d2d24e047c3b,asmera.voyage,available,58.99,58.99,medium,low,6,namesilo,,,20/09/2026 14:30
 aaff9c7f-e386-4e39-9db0-0947834edda7,peaks.voyage,available,46.78,46.78,high,low,5,spaceship,,,29/09/2026 17:03
+19e05a4a-db8b-4651-87e5-712ca5a59c80,retract.voyage,available,58.99,58.99,high,low,7,namesilo,,,01/10/2026 04:08
 556bc9a7-b887-43f7-a25b-2392a9935f79,brut.voyage,available,9.99,83.99,medium,low,4,name.com,,,11/08/2026 07:07
+5c1cbf4d-8b4e-442b-96da-dbc8ed26ecc7,volcanoes.voyage,available,58.99,58.99,medium,low,9,namesilo,,,30/09/2026 15:37
 e1b1f325-05e4-47a2-8e15-17ef0151daf0,terrific.voyage,available,58.99,58.99,high,low,8,namesilo,,,25/09/2026 00:17
+99c805dd-1e7f-45c9-addb-c08c6ec67b72,farragut.voyage,available,46.78,46.78,high,low,8,spaceship,,,30/09/2026 16:57
 aa68b86b-ce7b-486f-ab97-1d077973e15e,balmy.voyage,available,58.99,58.99,high,low,5,namesilo,,,22/09/2026 08:11
 2d8edac6-b0f1-4a1b-b8e2-3327f6c5c8b3,steely.voyage,available,58.99,58.99,medium,low,6,namesilo,,,10/09/2026 19:47
 003fea79-3109-438c-b095-02ec5bb92458,haircuts.voyage,available,58.99,58.99,medium,low,8,namesilo,,,21/09/2026 07:16
@@ -247,11 +274,14 @@ f26ed055-0a17-4b65-b9dd-155da8b8f902,uric.voyage,available,58.99,58.99,medium,lo
 21134492-e83a-427f-9ba5-925f18a1ef07,dumbfound.voyage,available,58.99,58.99,medium,low,9,namesilo,,,21/09/2026 17:37
 a057d5f8-f664-4bda-b9d8-45363dfd841a,marlon.voyage,available,58.99,58.99,high,low,6,namesilo,,,29/09/2026 15:44
 0956d810-db6c-4d7d-aade-fef29e11619c,irma.voyage,available,5.66,46.86,medium,low,4,porkbun,,,28/09/2026 22:00
+1de4f77b-a234-49fc-8052-003a69475d62,sejm.voyage,available,46.78,46.78,high,low,4,spaceship,,,30/09/2026 20:42
+cffeb41b-031e-4a29-af61-eead9ea69267,hvac.voyage,available,46.78,46.78,high,low,4,spaceship,,,30/09/2026 23:38
 5f34c196-68d3-4229-a7a4-f0145825cc89,ethan.voyage,available,58.99,58.99,high,low,5,namesilo,,,25/09/2026 13:30
 09a5ebc0-a33e-43b1-936c-37398c9307e7,alcove.voyage,available,58.99,58.99,high,low,6,namesilo,,,18/09/2026 04:11
 580e4e87-2f41-4100-b6ba-28b10817b069,bistro.voyage,available,58.99,58.99,high,low,6,namesilo,,,23/09/2026 22:13
+8a9d1629-b813-45a9-98a0-ebf364e8df75,trough.voyage,available,61.98,73.98,high,low,6,namecheap,,,30/09/2026 17:31
 797ed710-6521-439f-8cf9-084d7c26b4d1,egoistic.voyage,available,9.99,83.99,medium,low,8,name.com,,,15/08/2026 18:54
-f81b1410-90a8-4178-a547-9df32393e9cc,fadeout.voyage,available,58.99,58.99,high,low,7,namesilo,,,09/09/2026 11:18
+f81b1410-90a8-4178-a547-9df32393e9cc,fadeout.voyage,available,58.99,58.99,medium,low,7,namesilo,,,09/09/2026 11:18
 6f3d8e9c-d2ad-474c-9572-55f2a406c8bb,agnatha.voyage,available,61.98,73.98,medium,low,7,namecheap,,,17/09/2026 18:31
 170be94c-0d10-470d-a521-3ad112d8a03f,electrons.voyage,available,5.57,48.37,medium,low,9,dynadot,,,29/09/2026 16:19
 2864bf2c-5a78-4d96-be75-37d90ffe9344,wells.voyage,available,58.99,58.99,high,low,5,namesilo,,,27/09/2026 04:19
@@ -273,7 +303,9 @@ c1ee9f1c-dd89-4ff0-8f8b-cdf8c8b17d1e,vitamin.voyage,available,58.99,58.99,high,l
 73f1e9dc-ec87-4be0-99e8-823743b47e06,basileus.voyage,available,58.99,58.99,medium,low,8,namesilo,,,22/09/2026 10:47
 f6eca3a7-d65d-47f1-ae3e-fc3d41688cfc,clxx.voyage,available,9.99,83.99,medium,low,4,name.com,,,
 8d101e16-73f6-46b7-89d1-0ff6da8adadf,millennium.voyage,available,9.99,83.99,high,low,10,name.com,,,24/08/2026 23:15
-3b3816b3-932e-4bf5-be02-282165b4ef02,inhale.voyage,available,9.99,,high,low,6,name.com,,,
+c5ed8e34-0007-4f78-9020-457fccbeec7a,resides.voyage,available,61.98,73.98,medium,low,7,namecheap,,,01/10/2026 00:01
+94360add-bc98-410d-8763-81d85d2e4dec,accents.voyage,available,58.99,58.99,medium,low,7,namesilo,,,30/09/2026 15:13
+3b3816b3-932e-4bf5-be02-282165b4ef02,inhale.voyage,available,5.57,48.37,high,low,6,dynadot,,,30/09/2026 16:29
 1cd89802-baea-4248-8cd8-53fdb6a9378b,reliably.voyage,available,58.99,58.99,high,low,8,namesilo,,,14/09/2026 11:46
 a15a43d0-1500-40a6-a2b2-6538bcca0254,columns.voyage,available,58.99,58.99,low,low,7,namesilo,,,28/09/2026 23:03
 62798fd6-ad86-4124-8641-1e432e782a4c,unusable.voyage,available,58.99,58.99,medium,low,8,namesilo,,,12/09/2026 21:58
@@ -282,21 +314,23 @@ a15a43d0-1500-40a6-a2b2-6538bcca0254,columns.voyage,available,58.99,58.99,low,lo
 98040737-27f9-499c-a268-92170b8e8113,productivity.voyage,available,61.98,73.98,high,low,12,namecheap,,,29/09/2026 23:18
 97901bd1-54dd-4343-aca8-e2247227f2f0,irrelevant.voyage,available,61.98,73.98,high,low,10,namecheap,,,25/09/2026 11:28
 cf511892-830a-460c-a972-3e1fc791319b,grows.voyage,available,58.99,58.99,medium,low,5,namesilo,,,27/09/2026 10:10
-76b84ead-bba5-486d-8c41-5ecc89091543,learned.voyage,available,61.98,73.98,high,low,7,namecheap,,,23/09/2026 19:31
+76b84ead-bba5-486d-8c41-5ecc89091543,learned.voyage,available,46.78,46.78,high,low,7,spaceship,,,30/09/2026 19:33
 6aae8d19-4c64-40f1-a3c3-e217361929ad,lopsided.voyage,available,9.99,83.99,medium,low,8,name.com,,,07/08/2026 03:41
 b62ac51c-efa3-48e6-b053-d861fab36c0b,philosophical.voyage,available,58.99,58.99,high,low,13,namesilo,,,29/09/2026 08:37
-37adb51a-bfbf-4134-8c45-67cffd12598a,flavourful.voyage,available,9.99,83.99,high,low,10,name.com,,,18/08/2026 07:06
+37adb51a-bfbf-4134-8c45-67cffd12598a,flavourful.voyage,available,9.99,83.99,medium,low,10,name.com,,,18/08/2026 07:06
+927779c7-63a0-4bb8-a28a-a4b9d960d55f,aguirre.voyage,available,46.78,46.78,high,low,7,spaceship,,,30/09/2026 05:28
 e62d6fef-cdb1-4ca6-a2a6-1bfe2ab258e8,agronomist.voyage,available,61.98,73.98,medium,low,10,namecheap,,,17/09/2026 19:41
-1ce7c8f6-2723-4c4a-9073-e17d1514e4de,temple.voyage,available,,,high,high,6,,,,
 254abe2e-a996-448c-bee0-99fdef6edea6,almost.voyage,available,45.2,45.2,high,low,6,cloudflare,,,28/09/2026 11:54
 89ec0b6c-4a52-4df9-a80f-2bb8dd92d489,scarcely.voyage,available,58.99,58.99,medium,low,8,namesilo,,,09/09/2026 22:55
 d48570cc-ba0c-4ded-a1c2-e83f4fca564d,woops.voyage,available,9.99,,medium,low,5,name.com,,,
 3cbf017c-309f-4d44-b53a-5d6dace3ca32,broadcasting.voyage,available,46.78,46.78,medium,low,12,spaceship,,,28/09/2026 12:27
+c5679826-cf75-4b8d-8abc-0f97e0a27acf,harkness.voyage,available,58.99,58.99,medium,low,8,namesilo,,,30/09/2026 05:36
 ab992fca-89d0-40f9-976a-36e14f9d4185,typically.voyage,available,5.57,48.37,medium,low,9,dynadot,,,28/09/2026 17:10
 04742dfd-462b-405a-9b4c-b730f8852db4,scattered.voyage,available,9.99,83.99,medium,low,9,name.com,,,14/08/2026 11:23
 a02fad96-46b2-4044-8e8a-9b4d93ca8e39,biotin.voyage,available,9.99,83.99,high,low,6,name.com,,,23/09/2026 19:07
 4d684940-49b3-488c-90bf-fa50ae1f7e22,schizoid.voyage,available,9.99,83.99,medium,low,8,name.com,,,09/09/2026 23:09
 93576263-91e6-41f8-a896-b011e1d3699c,pans.voyage,available,61.98,73.98,medium,low,4,namecheap,,,18/09/2026 08:22
+945ae21b-b064-4429-a702-ddc2dabb3163,garnering.voyage,available,58.99,58.99,high,low,9,namesilo,,,30/09/2026 11:55
 ee233b53-2b05-4283-917b-67f9a03a8f79,alca.voyage,available,58.99,58.99,high,low,4,namesilo,,,18/09/2026 03:36
 795686a4-8344-4aa8-894f-2fc1b92cfcc1,juarez.voyage,available,5.66,46.86,medium,low,6,porkbun,,,29/09/2026 18:22
 cb934991-e547-41df-a969-448a2a61b83c,bernice.voyage,available,46.78,46.78,medium,low,7,spaceship,,,28/09/2026 21:58
@@ -320,6 +354,7 @@ df08c1e7-e8be-4876-9d99-7c4a75b9e783,finitely.voyage,available,58.99,58.99,mediu
 7c3389b6-682c-4690-8a03-464bc00502a0,brent.voyage,available,5.66,46.86,high,low,5,porkbun,,,28/09/2026 05:19
 c83ce794-fafc-47aa-8f41-33374e1d936f,called.voyage,available,9.99,,high,low,6,name.com,,,
 a7245ae0-d010-4952-81ce-54dcf8e71893,frank.voyage,available,58.99,58.99,high,medium,5,namesilo,,,08/09/2026 05:07
+56af6ed2-d81c-4890-92cc-fcf9bda50134,unavoidable.voyage,available,61.98,73.98,high,low,11,namecheap,,,30/09/2026 11:43
 60775fbb-d82d-4d66-9522-6686c577d00c,babyish.voyage,available,9.99,83.99,medium,low,7,name.com,,,08/08/2026 03:53
 a4869a72-00b0-408a-bb84-17e6fc752f27,stemless.voyage,available,9.99,83.99,medium,low,8,name.com,,,
 4634d952-f84c-4f02-b6ac-196ba39e4af1,blowzy.voyage,available,9.99,83.99,low,low,6,name.com,,,10/08/2026 15:41
@@ -330,15 +365,16 @@ d69eab0e-acfb-4ccc-a8c3-ed9d4bf5cc77,unsalted.voyage,available,58.99,58.99,mediu
 80e241fd-3e04-4496-8912-fdb67cfdff34,consulted.voyage,available,45.2,45.2,medium,low,9,cloudflare,,,29/09/2026 16:59
 5eb3efc8-ba9a-4d61-8bc8-f68e66e68ec1,cedar.voyage,available,5.66,46.86,high,low,5,porkbun,,,29/09/2026 00:24
 0ad8efdf-3f8e-4ddd-8f88-9c58d5881752,calling.voyage,available,58.99,58.99,high,low,7,namesilo,,,24/09/2026 11:48
-4ebea709-27d7-4ff0-b9c4-954da44d4e55,anyone.voyage,available,9.99,,medium,low,6,name.com,,,
+4ebea709-27d7-4ff0-b9c4-954da44d4e55,anyone.voyage,available,58.99,58.99,high,low,6,namesilo,,,01/10/2026 00:39
 aa588e65-59dc-4d72-9435-ec2f28d7bd28,vibrations.voyage,available,61.98,73.98,medium,low,10,namecheap,,,29/09/2026 23:57
 454a45b9-5eae-4735-9042-0a9bc693113b,expertise.voyage,available,46.78,46.78,high,low,9,spaceship,,,29/09/2026 18:40
 ec6fc927-af07-4c7c-9065-3a65b781148c,trivially.voyage,available,61.98,73.98,low,low,9,namecheap,,,16/09/2026 09:31
 74bac93a-90f4-4209-a5a3-58d7343e7c8b,attends.voyage,available,58.99,58.99,medium,low,7,namesilo,,,17/09/2026 22:27
+d0fef76f-2a9a-4990-afce-128d2cdfda07,modernisation.voyage,available,58.99,58.99,high,low,13,namesilo,,,30/09/2026 23:56
 8a170b2a-4e3c-41d0-94e3-893fc7e9bf6e,bema.voyage,available,58.99,58.99,high,low,4,namesilo,,,23/09/2026 07:15
 191541aa-f097-400a-83b4-3306370c1653,outlaw.voyage,available,58.99,58.99,high,low,6,namesilo,,,24/09/2026 01:45
 ae534308-90f8-4297-8499-dc9dac074be9,reunions.voyage,available,58.99,58.99,medium,low,8,namesilo,,,21/09/2026 08:16
-777ded36-bc40-4294-82c8-fbe8e94724fa,exaggerate.voyage,available,9.99,,high,low,10,name.com,,,
+777ded36-bc40-4294-82c8-fbe8e94724fa,exaggerate.voyage,available,46.78,46.78,high,low,10,spaceship,,,30/09/2026 19:19
 f0e36414-96df-4d97-a13a-f70226457c99,retentive.voyage,available,58.99,58.99,medium,low,9,namesilo,,,09/09/2026 11:47
 4fbece33-56ff-48df-8201-eb65f75727e4,exhibits.voyage,available,46.78,46.78,medium,low,8,spaceship,,,30/09/2026 00:23
 00c32c9c-eef4-4b40-a3dd-4b1465cd28c8,starlit.voyage,available,9.99,83.99,high,low,7,name.com,,,10/09/2026 18:56
@@ -346,11 +382,11 @@ f0e36414-96df-4d97-a13a-f70226457c99,retentive.voyage,available,58.99,58.99,medi
 a0a88f0e-e67e-4e1d-9c15-7401c7035fbe,panoptic.voyage,available,9.99,83.99,medium,low,8,name.com,,,
 a26809d5-5cf3-4176-adbc-7b632eec4e08,antilles.voyage,available,58.99,58.99,high,low,8,namesilo,,,19/09/2026 14:37
 c587713e-4550-4f53-baed-3382bae3942d,abatement.voyage,available,58.99,58.99,medium,low,9,namesilo,,,16/09/2026 14:09
-164daa77-6b7b-4d15-9944-b77d4e9cc8ff,gnostic.voyage,available,9.99,83.99,high,low,7,name.com,,,20/08/2026 15:47
+164daa77-6b7b-4d15-9944-b77d4e9cc8ff,gnostic.voyage,available,9.99,83.99,medium,low,7,name.com,,,20/08/2026 15:47
 2a975e71-3541-42a1-ac9b-b2fe3547e6c7,amain.voyage,available,61.98,73.98,medium,low,5,namecheap,,,13/09/2026 19:25
 d4e7cdaa-b8ad-4444-b619-7a9e9f5da410,abysm.voyage,available,61.98,73.98,medium,low,5,namecheap,,,16/09/2026 19:45
 c08005d9-7030-40ef-a24b-8d560339fc46,earthen.voyage,available,9.99,83.99,high,low,7,name.com,,,14/08/2026 22:38
-15ce097f-76f4-492a-89bf-ec68794caa66,aragon.voyage,available,58.99,58.99,high,low,6,namesilo,,,19/09/2026 23:42
+15ce097f-76f4-492a-89bf-ec68794caa66,aragon.voyage,available,58.99,58.99,medium,low,6,namesilo,,,19/09/2026 23:42
 d1af3899-f5c8-4c30-9af6-02f3a93172ea,ruined.voyage,available,61.98,73.98,high,low,6,namecheap,,,27/09/2026 16:41
 c436e99e-fcfc-4081-8901-3de185b9a439,norwalk.voyage,available,46.78,46.78,medium,low,7,spaceship,,,28/09/2026 12:08
 0fdb438e-47d7-45ca-9584-63f9d4b7b105,cadiz.voyage,available,45.2,45.2,high,low,5,cloudflare,,,29/09/2026 06:11
@@ -359,6 +395,7 @@ f18ae84b-e92f-4f6c-841d-f23ac63d7dcc,den.voyage,available,61.98,73.98,high,low,3
 2fa2188a-2c6a-4af7-980f-5b88fd8f967d,interview.voyage,available,46.78,46.78,high,low,9,spaceship,,,29/09/2026 11:18
 534f0a48-25e8-428f-9b4c-cd4f089088a1,odds.voyage,available,58.99,58.99,high,low,4,namesilo,,,23/09/2026 11:46
 29a32ac2-8d4f-4e25-9e69-1e2f547a5d33,credentials.voyage,available,58.99,58.99,high,low,11,namesilo,,,28/09/2026 08:17
+c0eca553-c8a5-4c41-8dfc-0557572df908,casing.voyage,available,58.99,58.99,high,low,6,namesilo,,,30/09/2026 08:59
 3c591e13-76cf-45bd-ac8a-9c032dc1772c,nomothetic.voyage,available,9.99,83.99,medium,low,10,name.com,,,03/09/2026 18:22
 51e4f98a-b931-4023-ae9f-9834e7ec76b4,docks.voyage,available,58.99,58.99,high,low,5,namesilo,,,28/09/2026 17:14
 9385970e-e65d-4e90-927f-05384f6edeca,erectile.voyage,available,9.99,83.99,medium,low,8,name.com,,,17/08/2026 12:07
@@ -366,7 +403,7 @@ d0ba31c8-f93e-4f69-90fb-e8c57d57d15f,jerry.voyage,available,46.78,46.78,high,low
 6d5fb6a5-52b8-4c96-a8e7-f4282fae6d8e,redbrush.voyage,available,58.99,58.99,medium,low,8,namesilo,,,18/09/2026 19:44
 c904514a-8d91-4597-90c8-2f328f3bd249,blighted.voyage,available,9.99,83.99,medium,low,8,name.com,,,10/08/2026 14:17
 e092c133-d6a8-4f04-af61-8eb82b76202c,abm.voyage,available,58.99,58.99,high,low,3,namesilo,,,16/09/2026 16:15
-600f9bc5-db35-4b27-968f-de6bcf062625,anything.voyage,available,9.99,,high,low,8,name.com,,,
+600f9bc5-db35-4b27-968f-de6bcf062625,anything.voyage,available,46.78,46.78,high,low,8,spaceship,,,01/10/2026 00:40
 a680bcb2-bb2e-4370-8537-8efe60b730f6,vacantly.voyage,available,58.99,58.99,low,low,8,namesilo,,,16/09/2026 10:32
 e3528e20-efad-4aa4-bc9d-97c556a7103a,asparagus.voyage,available,58.99,58.99,high,low,9,namesilo,,,20/09/2026 14:40
 38249f01-6ff7-49fe-ac63-6d0298a492ba,misery.voyage,available,58.99,58.99,medium,low,6,namesilo,,,27/09/2026 04:46
@@ -383,10 +420,12 @@ b3a112cd-fbbb-4ab8-ac83-aa34c08fd386,taxable.voyage,available,61.98,73.98,medium
 4da258c5-3626-456c-9ace-e0d1dfcf93ec,indigent.voyage,available,9.99,83.99,medium,low,8,name.com,,,14/08/2026 04:34
 1c741d15-e2ae-4956-ba47-79f758e9b991,trex.voyage,available,58.99,58.99,high,low,6,namesilo,,,18/09/2026 12:51
 2acce412-262c-4d90-8bd8-a41b3e9bcd4c,wingless.voyage,available,9.99,83.99,medium,low,8,name.com,,,13/09/2026 12:31
-1f7a56cc-dd2e-4993-9627-56c3a3aa7aac,arguing.voyage,available,58.99,58.99,high,low,7,namesilo,,,20/09/2026 04:50
+1f7a56cc-dd2e-4993-9627-56c3a3aa7aac,arguing.voyage,available,58.99,58.99,medium,low,7,namesilo,,,20/09/2026 04:50
 4e86f0c8-c389-420b-ad6b-b3eb61d876e9,racist.voyage,available,9.99,83.99,medium,low,6,name.com,,,
 821c9a61-4d25-4777-85ff-03165e9bf9c1,reading.voyage,available,58.99,58.99,high,low,7,namesilo,,,30/09/2026 00:17
+d1d234bd-daf5-440a-b67e-eedc95312774,offsetting.voyage,available,58.99,58.99,high,low,10,namesilo,,,30/09/2026 16:19
 960e0759-d3fd-4419-9714-27a90681d13f,promote.voyage,available,46.78,46.78,high,low,7,spaceship,,,28/09/2026 03:19
+73d4a331-6d9a-4d43-96c4-b8bc329bb6a5,lunar.voyage,resell,,,high,medium,5,Porkbun LLC,15/10/2021 23:43,15/10/2027 23:43,30/09/2026 05:39
 58b0363d-9f3c-4986-bf84-34f789cdee39,tuned.voyage,available,58.99,58.99,medium,low,5,namesilo,,,28/09/2026 12:55
 575e5d38-46c4-46cb-bd6d-f1fd95cfcf14,burnt.voyage,available,61.98,73.98,high,low,5,namecheap,,,23/09/2026 11:41
 733cdd03-57a1-42fc-98c1-d9c7354ba7f2,limiting.voyage,available,58.99,58.99,high,low,8,namesilo,,,23/09/2026 19:42
@@ -398,9 +437,9 @@ a545ae69-81fa-4e43-a713-0613637b844c,malvern.voyage,available,46.78,46.78,medium
 0dbc79d6-9533-4228-a872-ef5238bc0556,useful.voyage,available,46.78,46.78,high,low,6,spaceship,,,28/09/2026 10:01
 9a61d702-07d9-4910-b9da-04dc5a898088,connatural.voyage,available,9.99,83.99,medium,low,10,name.com,,,12/08/2026 22:18
 ebd44989-45c3-4381-88a0-b226fb4dece1,igneous.voyage,available,9.99,83.99,medium,low,7,name.com,,,21/08/2026 18:16
-8325e5f1-7ce6-4dda-a435-e909e7f0f96a,publicity.voyage,available,9.99,,high,low,9,name.com,,,
+8325e5f1-7ce6-4dda-a435-e909e7f0f96a,publicity.voyage,available,46.78,46.78,high,low,9,spaceship,,,30/09/2026 07:43
 5fa691b5-bc80-4b9c-8b33-066aa324ace7,unrefined.voyage,available,9.99,83.99,medium,low,9,name.com,,,12/09/2026 17:28
-f24735e1-4235-41b3-a405-1c6369a37af1,relevance.voyage,available,9.99,,high,low,9,name.com,,,
+f24735e1-4235-41b3-a405-1c6369a37af1,relevance.voyage,available,58.99,58.99,high,low,9,namesilo,,,30/09/2026 09:36
 ded91641-b741-47ba-a742-e11d295aeb98,wiper.voyage,available,58.99,58.99,high,low,5,namesilo,,,24/09/2026 17:39
 f06a85ab-6369-4f0f-a7f2-281ca2d852d0,pga.voyage,available,58.99,58.99,high,low,3,namesilo,,,28/09/2026 07:12
 e72fe0c3-2318-4a5e-8e5d-e6f6d975c796,salaried.voyage,available,9.99,83.99,high,low,8,name.com,,,12/08/2026 19:23
@@ -422,10 +461,13 @@ c9b148b3-bc4c-43ce-a781-f9dd5298a013,pamphlet.voyage,available,58.99,58.99,high,
 758c3e1b-fe3c-4afa-a397-a54b9269f876,penn.voyage,available,58.99,58.99,high,low,4,namesilo,,,25/09/2026 09:52
 da84bcb6-2272-4e36-b207-e8f01b82ba8c,price.voyage,available,58.99,58.99,high,medium,5,namesilo,,,30/09/2026 02:50
 1e0764da-ccfd-42a1-9b8f-ff989ae1a3bd,jasmine.voyage,available,58.99,58.99,high,low,7,namesilo,,,08/09/2026 14:04
-8149e144-4702-4223-812a-fff806afc38b,butterball.voyage,available,9.99,83.99,high,low,10,name.com,,,17/08/2026 23:59
+8149e144-4702-4223-812a-fff806afc38b,butterball.voyage,available,9.99,83.99,medium,low,10,name.com,,,17/08/2026 23:59
+34d4aaaf-38f2-4c3e-aa8c-77962269359d,pegged.voyage,available,5.66,46.86,medium,low,6,porkbun,,,30/09/2026 16:20
 4675c1d5-20bc-4ece-b3d3-386e4e9cd556,conversations.voyage,available,46.78,46.78,medium,low,13,spaceship,,,28/09/2026 08:58
+7f99bc60-9af6-4e59-9614-be37279a9e35,tabriz.voyage,available,46.78,46.78,medium,low,6,spaceship,,,01/10/2026 04:00
 de68fd58-158e-40c8-b419-824a7fdb6be1,resiny.voyage,available,58.99,58.99,medium,low,6,namesilo,,,09/09/2026 15:15
 ab176fb9-bab2-4a84-8177-708947e3b302,herds.voyage,available,61.98,73.98,medium,low,5,namecheap,,,19/09/2026 20:40
+ff53710a-df58-46f0-a517-f586718cd829,foresight.voyage,available,61.98,73.98,high,low,9,namecheap,,,01/10/2026 02:12
 f83c9ba8-44ee-4132-b1a9-145c671079d1,banneret.voyage,available,61.98,73.98,medium,low,8,namecheap,,,22/09/2026 02:54
 d5b5e8e0-86b3-4233-8132-d948d31d41e3,move.voyage,available,61.98,73.98,high,medium,4,namecheap,,,24/09/2026 22:31
 8328b01c-01a8-4976-8ad9-6f184e8aa196,ltd.voyage,available,58.99,58.99,high,low,3,namesilo,,,25/09/2026 11:58
@@ -436,19 +478,24 @@ b76bb3ee-7126-4465-a67c-8150abe0208d,openings.voyage,available,61.98,73.98,mediu
 99e757c1-915a-4cb4-a34d-325f56580894,trine.voyage,available,9.99,83.99,medium,low,5,name.com,,,
 32206c6e-20aa-461a-be68-ae6898055b6f,yoo.voyage,available,5.57,48.37,high,low,3,dynadot,,,30/09/2026 03:49
 83de72f7-2d17-4071-aa28-8c3409135635,muffle.voyage,available,9.99,83.99,medium,low,6,name.com,,,13/08/2026 16:49
+b42cdad7-9aa0-4591-927f-f7ebb3af8f9b,yalta.voyage,available,46.78,46.78,medium,low,5,spaceship,,,30/09/2026 19:08
 c8ff3fc7-9f1a-446e-a8f0-d73678c11f8e,asbestos.voyage,available,58.99,58.99,high,low,8,namesilo,,,20/09/2026 12:54
 9b01fe54-d696-453c-9db7-69a8473ca652,practicing.voyage,available,9.99,,high,low,10,name.com,,,
 ba59b0ee-b6e0-4e63-aca6-2aa0ff922c05,lullaby.voyage,available,61.98,73.98,high,low,7,namecheap,,,23/09/2026 09:09
 b61472b3-05b1-4c63-be40-e9dcb8f8ca57,loaded.voyage,available,9.99,83.99,high,low,6,name.com,,,
+62bac7af-4b38-425e-98ba-3c419f6fba4d,dung.voyage,available,58.99,58.99,medium,low,4,namesilo,,,30/09/2026 09:30
 0a4c1a3f-efa5-406f-ba8a-47b7ff949448,aardvark.voyage,available,58.99,58.99,high,low,8,namesilo,,,16/09/2026 13:21
 6398ebf9-33db-44d3-b403-8a085da01f7f,dealt.voyage,available,45.2,45.2,medium,low,5,cloudflare,,,28/09/2026 08:17
 b24593f0-2c7a-4f72-b69a-b2b893279a7c,millionaire.voyage,available,46.78,46.78,high,low,11,spaceship,,,28/09/2026 07:04
-955a50f1-24de-424a-8eaf-799c671a0bc8,brighten.voyage,available,9.99,,high,low,8,name.com,,,
+955a50f1-24de-424a-8eaf-799c671a0bc8,brighten.voyage,available,45.2,45.2,high,low,8,cloudflare,,,30/09/2026 16:33
+6d95e29a-d8c7-42e3-937d-a02955bf9ae0,knoxville.voyage,available,61.98,73.98,high,low,9,namecheap,,,01/10/2026 02:48
 fb354cc4-1181-4b05-8b1f-8330b2c79180,seems.voyage,available,58.99,58.99,medium,low,5,namesilo,,,18/09/2026 01:08
 8d49409b-dff1-4045-bc99-25341df3a7df,sovereign.voyage,available,58.99,58.99,high,medium,9,namesilo,,,22/09/2026 14:14
-72584b96-e09b-4c54-887f-19f86b5dec30,negotiate.voyage,available,9.99,,high,low,9,name.com,,,
+72584b96-e09b-4c54-887f-19f86b5dec30,negotiate.voyage,available,61.98,73.98,high,low,9,namecheap,,,30/09/2026 20:35
 8de495e6-1e0f-4b2a-9ed3-fd49da2b930e,landlord.voyage,available,89.99,89.99,high,low,8,godaddy,,,28/09/2026 02:14
+c39309e2-458b-4c92-89a7-e6692820beba,respective.voyage,available,5.57,48.37,medium,low,10,dynadot,,,30/09/2026 14:27
 ebc87727-5585-49dc-8c65-c5350c5c97d1,dolphins.voyage,available,46.78,46.78,medium,low,8,spaceship,,,28/09/2026 18:14
+86aaa823-f4b3-444c-9664-5f918f1b52e8,girlfriends.voyage,available,46.78,46.78,medium,low,11,spaceship,,,30/09/2026 06:17
 124b3c33-9887-481e-9764-d693dcf055e3,tamanoir.voyage,available,61.98,73.98,medium,low,8,namecheap,,,19/09/2026 12:16
 32565eaa-053d-4bf9-a54a-c79950e8ba0b,had.voyage,available,9.99,,high,low,3,name.com,,,
 c219dfb5-dd5e-48d5-a02e-39a487a292f0,heater.voyage,available,58.99,58.99,high,low,6,namesilo,,,29/09/2026 12:14
@@ -460,12 +507,14 @@ c219dfb5-dd5e-48d5-a02e-39a487a292f0,heater.voyage,available,58.99,58.99,high,lo
 e2d26640-e983-4c15-a53d-16d54cfe61dd,asphodel.voyage,available,58.99,58.99,medium,low,8,namesilo,,,20/09/2026 15:08
 fce91f02-7554-499a-bd1b-ae0cf963aa99,orgasm.voyage,available,46.78,46.78,high,low,6,spaceship,,,29/09/2026 13:36
 2a9bc04d-95ae-4213-91c1-1344287290b7,evanescent.voyage,available,9.99,83.99,high,low,10,name.com,,,17/08/2026 14:37
+b2596772-aac6-413b-9579-cbda9bb51110,predecessor.voyage,available,58.99,58.99,high,low,11,namesilo,,,30/09/2026 11:38
 63fce29c-d328-4f24-b900-25f9c584b39f,tasseled.voyage,available,58.99,58.99,medium,low,8,namesilo,,,11/09/2026 08:52
 896e2367-4263-45ee-9454-5f3c57324c9f,aalii.voyage,available,58.99,58.99,medium,low,5,namesilo,,,16/09/2026 13:12
 1b63489f-e238-4830-94c8-cd9240c601c7,cloisonne.voyage,available,9.99,83.99,medium,low,9,name.com,,,12/08/2026 01:39
 6291e23e-216e-4fa9-945e-e62172fcae81,bonnily.voyage,available,58.99,58.99,medium,low,7,namesilo,,,14/09/2026 01:04
 874e8c65-b03c-428a-8c5f-d71f302ddde2,nobelium.voyage,available,58.99,58.99,medium,low,8,namesilo,,,20/09/2026 21:58
 829fae83-8dba-4014-9958-0c9710937976,movement.voyage,available,58.99,58.99,high,low,8,namesilo,,,28/09/2026 21:51
+c5f380ce-b132-4179-bbb9-d1a7a21bbdb7,symbolize.voyage,available,46.78,46.78,high,low,9,spaceship,,,01/10/2026 04:25
 48194821-14f2-41f2-a22a-e92d94097373,denis.voyage,available,58.99,58.99,high,low,5,namesilo,,,25/09/2026 15:03
 7815aaf2-369c-4983-9783-3d306ab821ba,vicenary.voyage,available,58.99,58.99,medium,low,8,namesilo,,,13/09/2026 05:21
 e99f3891-1532-4dfc-a4aa-2187b2eac719,rosie.voyage,available,58.99,58.99,high,low,5,namesilo,,,27/09/2026 19:47
@@ -473,6 +522,7 @@ c6066b5a-5d62-454a-adb8-aefce475fcf3,executive.voyage,available,58.99,58.99,high
 2c3799cb-f480-4fad-9ab7-b23b8a394957,barn.voyage,available,46.78,46.78,high,low,4,spaceship,,,29/09/2026 01:11
 8ad95489-639d-40b0-a7a5-bf9d6ea6729c,bestseller.voyage,available,58.99,58.99,high,low,10,namesilo,,,23/09/2026 10:31
 24b79373-af7e-4d1d-a58c-9b11b9a73234,rankin.voyage,available,61.98,73.98,high,low,6,namecheap,,,27/09/2026 04:34
+80f8afc8-ca18-44b5-a5d6-836676a0ccf2,moustache.voyage,available,5.57,48.37,high,low,9,dynadot,,,30/09/2026 18:05
 c361d051-a7d8-464a-9949-4e80b0e00435,aliraq.voyage,available,61.98,73.98,medium,low,7,namecheap,,,18/09/2026 00:54
 9e2bbd8f-0d9e-4226-8f40-db3269c399b3,accountant.voyage,available,61.98,73.98,high,low,10,namecheap,,,16/09/2026 23:11
 c8c5e366-764f-4298-be79-c83a86f1fb44,caitiff.voyage,available,9.99,83.99,low,low,7,name.com,,,11/08/2026 13:26
@@ -489,26 +539,34 @@ d16752e9-e52e-407b-af04-b324dc0e34e1,antioxidant.voyage,available,9.99,,high,low
 21eb168f-2f87-44c1-a0ca-d29c5481b65f,turf.voyage,available,58.99,58.99,high,low,4,namesilo,,,28/09/2026 05:54
 7d6441bd-f4c8-4ba4-8ffc-f3caed2610fe,brew.voyage,available,46.78,46.78,high,low,4,spaceship,,,29/09/2026 11:47
 50f22fc2-1a3e-4c7f-a297-78c8e04d8d56,helena.voyage,available,46.78,46.78,high,low,6,spaceship,,,28/09/2026 13:38
+1ddc3c4e-6541-4e17-a482-fe05d0e5f87a,sorority.voyage,available,45.2,45.2,high,low,8,cloudflare,,,01/10/2026 03:45
 060d2899-5ca7-4408-9e8a-7a7778ed65d8,maggie.voyage,available,58.99,58.99,high,low,6,namesilo,,,25/09/2026 11:56
 598717bc-c2a0-4d79-b2a5-e7259c63087f,parliamentary.voyage,available,9.99,,medium,low,13,name.com,,,
-2cd67780-94c5-4466-9450-9260a0a44054,algal.voyage,available,9.99,83.99,high,low,5,name.com,,,
+2cd67780-94c5-4466-9450-9260a0a44054,algal.voyage,available,9.99,83.99,medium,low,5,name.com,,,
 64a4d48d-87da-467c-9434-57955607c8ca,fateful.voyage,available,9.99,83.99,medium,low,7,name.com,,,11/08/2026 13:32
+4411b60c-c964-454f-830b-1dedab01bc91,darrow.voyage,available,58.99,58.99,medium,low,6,namesilo,,,30/09/2026 09:12
+d362d888-9432-4fbc-966a-b1c4fbeeacc9,yolanda.voyage,available,45.2,45.2,medium,low,7,cloudflare,,,30/09/2026 21:10
 2132d0a0-59fb-4700-9da8-5af99113df34,swoon.voyage,available,9.99,83.99,high,low,5,name.com,,,17/08/2026 21:03
-6002848d-18b4-4ba8-8749-a11a57572896,logic.voyage,available,45.2,45.2,high,medium,5,cloudflare,,,28/09/2026 04:37
+8a8e1b37-0183-4e18-a118-1c8546cecf9a,endpoints.voyage,available,58.99,58.99,medium,low,9,namesilo,,,30/09/2026 07:49
+6002848d-18b4-4ba8-8749-a11a57572896,logic.voyage,available,58.99,58.99,high,medium,5,namesilo,,,01/10/2026 02:39
 1c74985f-b5a4-4c4d-a683-cff474394235,cosset.voyage,available,9.99,83.99,high,low,6,name.com,,,21/09/2026 13:00
+074a064a-4f61-4093-bd35-b2289d50a737,giles.voyage,available,5.66,46.86,medium,low,5,porkbun,,,30/09/2026 04:47
 292a5bf3-16aa-4bfc-9e45-8840342e1140,transposed.voyage,available,61.98,73.98,medium,low,10,namecheap,,,11/09/2026 18:59
-ca4a37cb-d187-42b6-9013-2046d20b25fa,gramophone.voyage,available,58.99,58.99,high,low,10,namesilo,,,17/09/2026 02:30
+ca4a37cb-d187-42b6-9013-2046d20b25fa,gramophone.voyage,available,58.99,58.99,medium,low,10,namesilo,,,17/09/2026 02:30
 5a92db76-acda-459f-8866-716f260ec6ff,strikes.voyage,available,58.99,58.99,medium,low,7,namesilo,,,27/09/2026 09:13
 17c41dc8-aece-4c85-9f33-9d64f7f7f73c,enmeshed.voyage,available,9.99,83.99,medium,low,8,name.com,,,17/08/2026 09:39
+ae86bcf7-0247-42f8-87a0-7f63dad48cd4,gabriele.voyage,available,46.78,46.78,medium,low,8,spaceship,,,30/09/2026 21:12
 c49da627-3f10-48ab-b615-80af946e5ba8,overlooking.voyage,available,46.78,46.78,medium,low,11,spaceship,,,30/09/2026 00:35
 33a3ad0d-8f0f-49e3-9877-43dde80edf8e,peterson.voyage,available,58.99,58.99,high,low,8,namesilo,,,25/09/2026 17:40
 87d0df16-4861-45ff-86ec-fc4210132146,forsyth.voyage,available,5.57,48.37,high,low,7,dynadot,,,27/09/2026 21:08
 edc9c80e-98ca-428e-9001-7117b6f9460b,dalhousie.voyage,available,58.99,58.99,medium,low,9,namesilo,,,29/09/2026 21:41
 f1256ec6-dbf9-4204-b52c-82f0ec7e648e,prospering.voyage,available,9.99,83.99,medium,low,10,name.com,,,10/08/2026 19:17
-21a0c67d-f008-4345-9bee-92bf3cce238e,prick.voyage,available,9.99,83.99,high,low,5,name.com,,,08/08/2026 23:38
+21a0c67d-f008-4345-9bee-92bf3cce238e,prick.voyage,available,9.99,83.99,medium,low,5,name.com,,,08/08/2026 23:38
 ebf7fb2c-7319-4747-83b3-fcb8324c8f30,contact.voyage,available,46.78,46.78,high,medium,7,spaceship,,,28/09/2026 01:41
 22b7b9fc-30aa-479f-9812-24927e433af0,inside.voyage,available,58.99,58.99,high,low,6,namesilo,,,25/09/2026 09:46
 ea463076-65c6-4756-b037-404efe8db1ac,blare.voyage,available,9.99,83.99,medium,low,5,name.com,,,10/08/2026 13:12
+65713799-6915-4e9a-befc-864369bef181,consultants.voyage,available,58.99,58.99,medium,low,11,namesilo,,,01/10/2026 00:53
+e94ff656-fc1d-4d1c-8c1e-6b2d34b83580,waveforms.voyage,available,46.78,46.78,medium,low,9,spaceship,,,01/10/2026 00:59
 f850565b-c83d-4e56-9ae7-9c5be205ea57,ravioli.voyage,available,58.99,58.99,high,low,7,namesilo,,,24/09/2026 12:37
 614b42c0-0f18-43b7-a2fe-e2f4ad3b3f7a,consultation.voyage,available,45.2,45.2,high,low,12,cloudflare,,,29/09/2026 22:42
 e49fb6fb-a8ce-4b4d-b89f-1ff25def6b58,telephonic.voyage,available,58.99,58.99,medium,low,10,namesilo,,,11/09/2026 10:20
@@ -528,7 +586,7 @@ c7176cf4-6396-48c0-9323-92373e910d49,indate.voyage,available,9.99,,medium,low,7,
 d31b912a-d4c0-4611-a7fe-3d44d67d0bff,eased.voyage,available,9.99,83.99,high,low,5,name.com,,,
 67f1800a-230c-4bfc-b2d4-22bf80db1921,alb.voyage,available,58.99,58.99,high,low,3,namesilo,,,18/09/2026 02:20
 63f9420b-9644-42e5-bf56-0f986ffff636,fittingly.voyage,available,58.99,58.99,medium,low,9,namesilo,,,13/09/2026 20:32
-a7c35219-fa3b-4e5c-87e8-1f9be21a8318,santos.voyage,available,58.99,58.99,high,low,6,namesilo,,,28/09/2026 15:17
+a7c35219-fa3b-4e5c-87e8-1f9be21a8318,santos.voyage,available,58.99,58.99,medium,low,6,namesilo,,,28/09/2026 15:17
 1be9ea4c-cc07-4060-907d-13a50ddbe955,phoenix.voyage,available,58.99,58.99,high,medium,7,namesilo,,,24/09/2026 12:16
 808e3e25-64d1-426b-b91f-9a516e055ab6,approximate.voyage,available,46.78,46.78,high,low,11,spaceship,,,29/09/2026 08:31
 c56cdbc9-1af9-42a9-9278-1ca386ba5691,mattress.voyage,available,45.2,45.2,high,low,8,cloudflare,,,28/09/2026 19:51
@@ -537,7 +595,7 @@ c56cdbc9-1af9-42a9-9278-1ca386ba5691,mattress.voyage,available,45.2,45.2,high,lo
 ad54dd22-d622-4d95-8a0a-dae933a98f08,niebuhr.voyage,available,58.99,58.99,medium,low,7,namesilo,,,22/09/2026 09:08
 116bdb77-ec4d-48e2-90a8-c40a1882cbd9,wholly.voyage,available,9.99,83.99,high,low,6,name.com,,,
 4dbc7e87-883c-4904-b72f-6e6594ab09ec,url.voyage,available,45.2,45.2,high,medium,3,cloudflare,,,28/09/2026 11:02
-a5c25b88-4fb3-407e-8210-6e05c0349426,inhibit.voyage,available,9.99,,high,low,7,name.com,,,
+a5c25b88-4fb3-407e-8210-6e05c0349426,inhibit.voyage,available,58.99,58.99,high,low,7,namesilo,,,30/09/2026 16:14
 330ef4eb-2953-4cab-824d-cc8cdc08091d,postcard.voyage,available,58.99,58.99,high,low,8,namesilo,,,29/09/2026 13:21
 565d38b8-bf4f-4602-8a3b-c1c2b1d74dec,kale.voyage,available,58.99,58.99,high,low,4,namesilo,,,24/09/2026 06:48
 fe874e7c-b70b-4968-bf43-ba7959b15e9d,aimless.voyage,available,9.99,83.99,medium,low,7,name.com,,,
@@ -548,8 +606,9 @@ b441fa0f-b170-4b53-b373-f33c54b52284,reflect.voyage,available,58.99,58.99,high,l
 3ff960ff-39ec-4f46-9405-ebdc24db80f9,irreverent.voyage,available,9.99,83.99,medium,low,10,name.com,,,20/08/2026 16:04
 910271bc-716f-4881-b817-27afc7eb738c,sleekly.voyage,available,58.99,58.99,medium,low,7,namesilo,,,16/09/2026 02:30
 7210bb5a-25bf-49c6-aa1d-904e1134befe,solvent.voyage,available,58.99,58.99,high,low,7,namesilo,,,19/09/2026 16:47
+d2d3006a-3ef3-4bdf-bcac-6d7efcf908f5,piracy.voyage,available,46.78,46.78,high,low,6,spaceship,,,01/10/2026 01:12
 fbd13ec1-22b9-427b-b832-0861c3facb92,barograph.voyage,available,58.99,58.99,medium,low,9,namesilo,,,22/09/2026 06:59
-e0a35c84-3592-4f31-a3f1-e55a23569b7a,bertolucci.voyage,available,58.99,58.99,high,low,10,namesilo,,,23/09/2026 09:50
+e0a35c84-3592-4f31-a3f1-e55a23569b7a,bertolucci.voyage,available,58.99,58.99,medium,low,10,namesilo,,,23/09/2026 09:50
 983af045-c120-438c-8b94-16d82715346e,yttrium.voyage,available,9.99,83.99,medium,low,7,name.com,,,20/09/2026 23:00
 7d6e8827-6179-46db-9a99-4d101a861de2,violence.voyage,available,58.99,58.99,high,low,8,namesilo,,,27/09/2026 03:55
 cb8cdc1f-a212-451f-ad87-939b9a416bd2,bennington.voyage,available,58.99,58.99,high,low,10,namesilo,,,23/09/2026 08:33
@@ -558,10 +617,13 @@ b734f629-4a60-41b7-bfdb-4374ea06ceb2,filar.voyage,available,9.99,83.99,medium,lo
 9736ea65-1442-4ed8-b1d6-8eb250d6308f,caen.voyage,available,46.78,46.78,high,low,4,spaceship,,,29/09/2026 09:32
 c20b509f-c916-451b-a55f-cd594beb6406,alinement.voyage,available,61.98,73.98,high,low,9,namecheap,,,18/09/2026 07:48
 eacdbed0-1911-4f22-9a42-8a49c8d5ab6b,lobe.voyage,available,45.2,45.2,high,low,4,cloudflare,,,29/09/2026 19:33
+e3a9c85f-e00c-4e72-aa51-e882e91b7e1b,prefectures.voyage,available,45.2,45.2,medium,low,11,cloudflare,,,30/09/2026 16:16
+944d8fc2-9060-45a9-b410-6cf18177076f,sensibility.voyage,available,46.78,46.78,high,low,11,spaceship,,,30/09/2026 22:27
 0ca707ab-52e9-4a27-88f5-a9d6f00ff5b3,necessity.voyage,available,9.99,83.99,high,low,9,name.com,,,24/09/2026 15:20
 5fba8fb1-a9f9-436e-8df5-2fa72ff4ae7c,grapy.voyage,available,9.99,83.99,medium,low,5,name.com,,,20/08/2026 18:07
 bbaf1abc-5203-42a4-b768-af4a69e0a594,coffeepots.voyage,available,58.99,58.99,medium,low,10,namesilo,,,21/09/2026 00:56
-8a8c7045-d2ec-407e-9feb-e09052e2fdf4,mega.voyage,available,9.99,,high,medium,4,name.com,,,
+8a8c7045-d2ec-407e-9feb-e09052e2fdf4,mega.voyage,available,46.78,46.78,high,medium,4,spaceship,,,30/09/2026 23:43
+01e64832-c9d6-495b-9952-8d8decc259c0,researched.voyage,available,58.99,58.99,medium,low,10,namesilo,,,01/10/2026 00:58
 81781b8e-331d-4537-af95-47a5e68637e5,bhutanese.voyage,available,9.99,83.99,medium,low,9,name.com,,,09/08/2026 18:24
 98ffb310-708c-43f7-927f-d43709f397bd,staccato.voyage,available,9.99,83.99,high,low,8,name.com,,,14/08/2026 09:57
 1786e06f-14fc-4667-8988-d4d08b11560c,drinking.voyage,available,58.99,58.99,high,low,8,namesilo,,,29/09/2026 03:42
@@ -573,7 +635,8 @@ a17ac2b8-49cc-42bd-9d99-b85caeff54a7,hildebrand.voyage,available,58.99,58.99,med
 35906231-5522-4722-8f50-cd3c581b115c,courtney.voyage,available,61.98,73.98,high,low,8,namecheap,,,25/09/2026 21:37
 8faf4c67-bc1c-4165-93e4-75fff301adf7,dutchess.voyage,available,46.78,46.78,high,low,8,spaceship,,,29/09/2026 21:34
 061cc52f-8dcb-426f-a2a6-bb12568e7b0c,incomplete.voyage,available,9.99,83.99,high,low,10,name.com,,,22/08/2026 01:53
-be182cfd-a762-41d7-af25-3ecbec1ac387,videogames.voyage,available,45.2,45.2,high,low,11,cloudflare,,,28/09/2026 06:42
+f17af321-d9ab-407e-9ebe-90f71509e41f,fagan.voyage,available,58.99,58.99,medium,low,5,namesilo,,,30/09/2026 05:33
+be182cfd-a762-41d7-af25-3ecbec1ac387,videogames.voyage,available,45.2,45.2,medium,low,11,cloudflare,,,28/09/2026 06:42
 5ac8c42c-2fdd-4a4a-815a-4a55a73bd422,blocks.voyage,available,58.99,58.99,high,low,6,namesilo,,,17/09/2026 21:52
 30fa6354-b808-47d6-81ef-3e3de0da815e,pinging.voyage,available,9.99,,medium,low,7,name.com,,,
 49157ce4-5226-496d-8b21-be7f1af2b2c7,adolescent.voyage,available,61.98,73.98,high,low,10,namecheap,,,21/09/2026 19:03
@@ -586,12 +649,13 @@ fab02a82-0c49-497f-a8e7-dab394f313d0,jailed.voyage,available,61.98,73.98,medium,
 33bba88e-e03b-4186-a7e9-6e29e291a77f,viva.voyage,resell,,,high,medium,4,"Sav.com, LLC",17/08/2026 06:23,17/08/2027 06:23,26/09/2026 10:01
 3599eadb-f747-409c-a963-f8c06020994c,argali.voyage,available,58.99,58.99,medium,low,6,namesilo,,,20/09/2026 04:09
 11fb58d8-bf33-4d81-b946-9916e70fd61b,hillsboro.voyage,available,45.2,45.2,medium,low,9,cloudflare,,,29/09/2026 04:37
+061bb350-2023-4e22-81ff-43e28db5dc55,lockport.voyage,available,58.99,58.99,medium,low,8,namesilo,,,30/09/2026 13:59
 7ec62818-0bd5-4710-8aea-8c19354aa07f,correctly.voyage,available,61.98,73.98,high,low,9,namecheap,,,13/09/2026 20:47
 6da81187-ae0b-40e0-a9ae-06da684ca999,diabetes.voyage,available,46.78,46.78,high,low,8,spaceship,,,29/09/2026 14:48
 5aa0e691-8eff-4b92-b324-e1cb173614c6,meg.voyage,available,9.99,83.99,high,low,3,name.com,,,24/08/2026 23:20
 50c6d981-2d57-4f6f-9cdb-0b0f9f9a3acf,ambush.voyage,available,9.99,83.99,high,low,6,name.com,,,24/08/2026 12:29
 3feb8d0b-4067-4e63-8719-e7acebe3f570,aberdonian.voyage,available,9.99,83.99,medium,low,10,name.com,,,
-b7b80e20-c87d-432e-8cf1-51fe72196492,backfield.voyage,available,58.99,58.99,high,low,9,namesilo,,,21/09/2026 15:27
+b7b80e20-c87d-432e-8cf1-51fe72196492,backfield.voyage,available,58.99,58.99,medium,low,9,namesilo,,,21/09/2026 15:27
 2d3ccf39-b7a6-41fa-b2f6-c42117396a56,bauxite.voyage,available,58.99,58.99,medium,low,7,namesilo,,,22/09/2026 16:42
 b5a3d1eb-ad11-4c66-a422-0fbfd589de37,plausible.voyage,available,61.98,73.98,high,low,9,namecheap,,,08/09/2026 20:55
 7e517df2-bab6-49a7-94f7-92c32a1e745c,stefan.voyage,available,61.98,73.98,high,low,6,namecheap,,,25/09/2026 14:25
@@ -603,15 +667,16 @@ a4bf8a93-65b0-407d-8f61-6f360eb75b51,sequent.voyage,available,9.99,83.99,high,lo
 bb9ffa66-58e4-49ba-959a-69937233077d,decorous.voyage,available,9.99,83.99,medium,low,8,name.com,,,09/08/2026 06:21
 05fbd2c3-01e9-4a08-aa6b-cd74c2bd5803,shampoo.voyage,available,5.57,48.37,high,low,7,dynadot,,,30/09/2026 02:51
 482d0219-f47d-4ddd-be47-7c7238e81f35,fencing.voyage,available,46.78,46.78,high,low,7,spaceship,,,29/09/2026 00:54
+21848219-43e7-44ec-8e01-e6259d2def9a,manifested.voyage,available,46.78,46.78,medium,low,10,spaceship,,,30/09/2026 06:51
 ad51d714-36f1-4bbc-9b0c-8c58133e963f,eyes.voyage,available,5.57,48.37,high,low,4,dynadot,,,29/09/2026 18:46
 dedbee24-c56d-4444-aa3b-aea20b48cc19,joplin.voyage,available,46.78,46.78,medium,low,6,spaceship,,,28/09/2026 19:32
 107308a0-20de-4fba-99da-6f6aa7acb589,beneficial.voyage,available,9.99,83.99,high,low,10,name.com,,,09/08/2026 14:24
 d06dd1f4-8bc3-4626-b8e4-a55238ba8cbf,speedup.voyage,available,9.99,,high,low,8,name.com,,,
-d8e8d649-70e6-4c86-bad1-7c7438d46025,spaces.voyage,available,46.78,46.78,high,low,6,spaceship,,,28/09/2026 17:55
+d8e8d649-70e6-4c86-bad1-7c7438d46025,spaces.voyage,available,46.78,46.78,medium,low,6,spaceship,,,28/09/2026 17:55
 4efcf3a0-6a48-46a4-a406-79837a9ef1b5,notes.voyage,available,9.99,,high,low,5,name.com,,,
 e933ae8b-32fb-451d-9aca-eb91d3062f9f,involves.voyage,available,58.99,58.99,medium,low,8,namesilo,,,19/09/2026 23:56
 d882f349-a907-45b7-bd62-42615a240815,aglaia.voyage,available,61.98,73.98,medium,low,6,namecheap,,,17/09/2026 18:17
-5300c609-91ac-49af-97ac-3a687010eccc,liable.voyage,available,9.99,,high,low,6,name.com,,,
+5300c609-91ac-49af-97ac-3a687010eccc,liable.voyage,available,46.78,46.78,high,low,6,spaceship,,,01/10/2026 02:02
 7875f4aa-f74b-46b6-bc5e-94b95991b0ee,microphone.voyage,available,58.99,58.99,high,low,10,namesilo,,,29/09/2026 08:27
 ece2df8a-aac1-4d9d-b3bf-bc6f39833251,abator.voyage,available,58.99,58.99,medium,low,6,namesilo,,,16/09/2026 14:13
 c366967a-4994-47bc-8f3b-3266f0ae4bae,unaddicted.voyage,available,58.99,58.99,medium,low,10,namesilo,,,11/09/2026 23:50
@@ -621,22 +686,24 @@ ab7ef498-d58b-4a32-bd50-d8efb33d7b14,tito.voyage,available,61.98,73.98,high,low,
 b9306fab-7d58-46bc-81d6-25b02cf583fc,basement.voyage,available,45.2,45.2,high,low,8,cloudflare,,,29/09/2026 01:22
 60ad51a9-0502-440c-aa5f-2f765f1f7c44,djiboutian.voyage,available,9.99,83.99,medium,low,10,name.com,,,14/08/2026 14:08
 8c80dce6-1682-4645-af45-d589d727618e,dodge.voyage,available,58.99,58.99,high,low,5,namesilo,,,28/09/2026 01:47
-38874f4f-da36-494e-b7ed-3e16cc917d96,gland.voyage,available,46.78,46.78,high,low,5,spaceship,,,29/09/2026 07:05
+38874f4f-da36-494e-b7ed-3e16cc917d96,gland.voyage,available,46.78,46.78,medium,low,5,spaceship,,,29/09/2026 07:05
 be2e9d6a-2afa-44ac-8ae1-ff26f4039b5a,dentate.voyage,available,9.99,83.99,medium,low,7,name.com,,,14/08/2026 01:57
 f5d1d485-9e04-43b1-abfa-69dc3a544a56,brittle.voyage,available,9.99,83.99,medium,low,7,name.com,,,11/08/2026 03:47
 05f3e25c-80f1-4f26-886b-9bdc1a2b094c,valuable.voyage,available,58.99,58.99,high,low,8,namesilo,,,28/09/2026 10:06
 20b41446-309b-4ee5-a678-629b33e9a8d3,severed.voyage,available,9.99,83.99,medium,low,7,name.com,,,13/08/2026 12:32
-dcdd999a-1add-4457-bcd4-37cbfc73bfdf,ingress.voyage,available,9.99,83.99,high,low,7,name.com,,,22/08/2026 01:52
-2f4d561d-b3d7-4761-ad34-983005c0d895,nuremberg.voyage,available,58.99,58.99,high,low,9,namesilo,,,25/09/2026 23:53
+dcdd999a-1add-4457-bcd4-37cbfc73bfdf,ingress.voyage,available,9.99,83.99,medium,low,7,name.com,,,22/08/2026 01:52
+2f4d561d-b3d7-4761-ad34-983005c0d895,nuremberg.voyage,available,58.99,58.99,medium,low,9,namesilo,,,25/09/2026 23:53
 c7cc0301-7e2c-4a4c-866f-23225ce279ea,welkin.voyage,available,9.99,83.99,medium,low,6,name.com,,,16/08/2026 21:01
+69b4d0b1-b459-488d-bfbb-088952083397,medallion.voyage,available,58.99,58.99,high,low,9,namesilo,,,30/09/2026 10:23
 221a159c-fe80-411f-9906-ec3ba9d238c2,seedless.voyage,available,58.99,58.99,high,low,8,namesilo,,,10/09/2026 01:45
 e143603e-3172-41b7-945e-43d3d0d5e196,unrequited.voyage,available,58.99,58.99,medium,low,10,namesilo,,,12/09/2026 00:45
 50a85081-f6db-4b20-9dc3-02d86e4ed48a,ivory.voyage,available,58.99,58.99,high,low,5,namesilo,,,04/09/2026 01:20
 a32210e0-7bf1-4084-a789-d4b1d2a0d13e,alienating.voyage,available,9.99,83.99,medium,low,10,name.com,,,
 5036cd72-a8c7-4e58-8701-911a9b19ce7e,bestiality.voyage,available,61.98,73.98,medium,low,10,namecheap,,,23/09/2026 10:39
 463e9d50-ab82-44a6-b27c-5201085cd507,mechanic.voyage,available,58.99,58.99,high,low,8,namesilo,,,25/09/2026 18:40
-4fa5f8e3-13b7-4846-8a2f-0dbcbfe7b0fb,cordially.voyage,available,58.99,58.99,high,low,9,namesilo,,,14/09/2026 08:43
+4fa5f8e3-13b7-4846-8a2f-0dbcbfe7b0fb,cordially.voyage,available,58.99,58.99,medium,low,9,namesilo,,,14/09/2026 08:43
 2188898a-f969-4f03-8dfc-d8d49add0d6c,gaslighter.voyage,available,9.99,,medium,low,11,name.com,,,
+91241fe7-2cfc-4920-b31a-9772a2e85d4b,herpes.voyage,available,58.99,58.99,high,low,6,namesilo,,,30/09/2026 17:37
 33cb5684-b4af-4675-85b3-d292198e797c,prayers.voyage,available,58.99,58.99,high,low,7,namesilo,,,18/09/2026 03:21
 93294966-b3de-42b4-a7b5-cbb70f213e88,accumulate.voyage,available,9.99,83.99,high,low,10,name.com,,,12/08/2026 16:47
 cfe629ac-d09a-4812-9f48-b366922b9cfa,guests.voyage,available,61.98,73.98,high,low,6,namecheap,,,25/09/2026 17:02
@@ -645,8 +712,10 @@ cfe629ac-d09a-4812-9f48-b366922b9cfa,guests.voyage,available,61.98,73.98,high,lo
 a025b93c-e5c4-4631-9d39-0f2575b80cf2,apodous.voyage,available,9.99,83.99,medium,low,7,name.com,,,06/08/2026 01:21
 04407d10-d9dc-4363-aa22-08a489e75484,loaned.voyage,available,58.99,58.99,medium,low,6,namesilo,,,17/09/2026 16:26
 fc3496c2-f484-43e5-8d18-6744e2ba1b44,reeves.voyage,available,46.78,46.78,high,low,6,spaceship,,,29/09/2026 09:55
+76c6e04d-d34d-4d8e-91c7-fc1b568b76cd,enroll.voyage,available,5.66,46.86,high,low,6,porkbun,,,30/09/2026 18:26
 044a9684-1968-40c9-9ab0-e42017165b35,cohen.voyage,available,58.99,58.99,high,low,5,namesilo,,,27/09/2026 03:21
 76b42b1c-92fa-4079-9ba7-59aa0ca79ddd,anonym.voyage,available,58.99,58.99,medium,low,6,namesilo,,,19/09/2026 11:37
+68ef47cf-a8f2-44d5-9029-b7d6195f89b3,muni.voyage,available,46.78,46.78,high,low,4,spaceship,,,30/09/2026 12:26
 9659c0fb-1c6a-4808-b51f-18d1e79a2be3,notified.voyage,available,46.78,46.78,medium,low,8,spaceship,,,28/09/2026 05:08
 4f665993-4fd6-40b4-aca8-b384dcd44f65,empty.voyage,available,58.99,58.99,high,low,5,namesilo,,,24/09/2026 13:56
 c0ccdf7e-e072-43ac-ba38-3afe3fc65224,foamy.voyage,available,9.99,83.99,high,low,5,name.com,,,11/08/2026 07:20
@@ -654,48 +723,55 @@ d2d0c3a8-c23d-4522-bf7e-19020031e2cd,beginnings.voyage,available,58.99,58.99,med
 9e31a0f9-2c16-4113-a81c-7940ac8029c4,fisherman.voyage,available,46.78,46.78,high,low,9,spaceship,,,28/09/2026 05:43
 8d159fbe-5d25-47a6-95e3-e0d392fc45dd,proposition.voyage,available,5.57,48.37,high,low,11,dynadot,,,28/09/2026 03:24
 697c9a44-5636-473b-a5bf-5381189fa39d,affirmation.voyage,available,58.99,58.99,high,low,11,namesilo,,,16/09/2026 08:52
+e8dc4ef4-2707-4042-9e61-931c11629421,dara.voyage,available,89.99,89.99,high,low,4,godaddy,,,01/10/2026 01:04
 596651af-985c-47fa-8b16-4016c5110a02,birdseed.voyage,available,61.98,73.98,high,low,8,namecheap,,,23/09/2026 19:50
 343dd113-b1d3-490e-a9b8-e46997a53f8c,triangular.voyage,available,58.99,58.99,high,low,10,namesilo,,,11/09/2026 14:30
 95db9220-bea6-43c0-95ef-9bc4a4bccd04,barong.voyage,available,58.99,58.99,medium,low,6,namesilo,,,22/09/2026 07:38
 8246c7fb-44f2-40bb-9367-46621c08f2be,xoxoxo.voyage,available,9.99,,high,low,6,name.com,,,
 2bea7dc8-1562-47ed-98f6-10c8df465f21,colon.voyage,available,58.99,58.99,high,low,5,namesilo,,,20/09/2026 15:16
 e9ed43b5-5750-4b96-bd92-c63a9bdc4430,ackee.voyage,available,58.99,58.99,medium,low,5,namesilo,,,17/09/2026 01:52
+49ba649a-50ad-4604-b8b0-03f397896d11,hamster.voyage,available,46.78,46.78,high,low,7,spaceship,,,01/10/2026 02:24
 354f9669-0683-409a-a648-e37a97e1f1eb,unloved.voyage,available,58.99,58.99,medium,low,7,namesilo,,,12/09/2026 15:10
 f0fc1d4f-405d-47c1-94f6-5fabbaa5ca43,hardback.voyage,available,9.99,83.99,high,low,8,name.com,,,21/08/2026 00:40
 f93a72af-1ea3-4e66-b2ab-fda8f6aff022,playhouse.voyage,available,46.78,46.78,high,low,9,spaceship,,,29/09/2026 02:35
 02cb4606-d6d0-4e61-bff1-f277a9b8ece7,unalarming.voyage,available,58.99,58.99,medium,low,10,namesilo,,,12/09/2026 00:14
 4266205e-1170-4bfb-b73e-7314f1cb0c5f,aeronaut.voyage,available,58.99,58.99,high,low,8,namesilo,,,17/09/2026 13:09
+7e68ce00-2881-4a71-99a2-7f591fe9bf8b,farley.voyage,available,61.98,73.98,medium,low,6,namecheap,,,30/09/2026 13:41
 f191ef15-c5dc-4234-869f-b986fc84d7ad,barrel.voyage,available,58.99,58.99,high,low,6,namesilo,,,22/09/2026 08:08
 23967d74-ebcb-4675-92ea-167d865cfd2f,distinct.voyage,available,9.99,83.99,high,low,8,name.com,,,12/08/2026 10:31
 301e1638-75f1-44be-8b04-6db0899c30ce,semihard.voyage,available,58.99,58.99,medium,low,8,namesilo,,,10/09/2026 03:04
 a2bda588-4a4c-4c47-8675-e974561ced0c,sunglasses.voyage,available,58.99,58.99,high,low,10,namesilo,,,29/09/2026 06:30
+79709e1d-580f-4769-850a-ebb94e4579cd,enclosure.voyage,available,46.78,46.78,high,low,9,spaceship,,,30/09/2026 09:32
 d860a9f1-3630-42c5-9bcf-797dfb23037d,bye.voyage,available,5.57,48.37,high,low,3,dynadot,,,28/09/2026 18:38
 1d91ba15-b3bd-4cdc-9049-871426e0f044,dhaka.voyage,available,5.66,46.86,medium,low,5,porkbun,,,29/09/2026 06:13
 7aa84d16-1ed5-40da-af57-9df4b1c00bb0,dividable.voyage,available,9.99,83.99,medium,low,9,name.com,,,14/08/2026 13:41
 d9b3e0a8-133b-462c-a43f-a2a117e101d2,toothless.voyage,available,58.99,58.99,medium,low,9,namesilo,,,11/09/2026 17:15
 1862d618-dd48-4f69-9fcc-2da54fb33549,blacks.voyage,available,61.98,73.98,low,low,6,namecheap,,,28/09/2026 18:09
 0b7c28c6-78cd-4014-aa5a-6077138ec831,urban.voyage,resell,9.99,,high,low,5,name.com,,,28/09/2026 10:00
+832f2ada-7aba-45ea-8f32-103fd720039e,ealing.voyage,available,46.78,46.78,medium,low,6,spaceship,,,30/09/2026 21:24
 a6a3d97a-fe4f-4c4f-a36b-00a4a9cd4698,robbing.voyage,available,61.98,73.98,medium,low,7,namecheap,,,28/09/2026 23:49
 53733ac9-b448-4f08-a05f-04cce436a1ff,modified.voyage,available,9.99,83.99,high,low,8,name.com,,,25/08/2026 03:15
-b3e6f678-9284-4c59-a618-d5d6b4bb3b55,activeness.voyage,available,61.98,73.98,high,low,10,namecheap,,,17/09/2026 05:11
+b3e6f678-9284-4c59-a618-d5d6b4bb3b55,activeness.voyage,available,61.98,73.98,medium,low,10,namecheap,,,17/09/2026 05:11
 6cefd266-a025-41dc-8c7f-6db58442f6e0,links.voyage,available,46.78,46.78,high,medium,5,spaceship,,,29/09/2026 21:04
 cf3b164a-03e9-4d05-af59-edad503e7e4b,mongoloid.voyage,available,9.99,83.99,medium,low,9,name.com,,,25/08/2026 04:49
 13f01736-61e1-452f-8ca7-1870f44433c8,gamba.voyage,available,61.98,73.98,medium,low,5,namecheap,,,22/09/2026 11:54
 019b269c-8518-4088-b1af-57c53a98404d,leather.voyage,available,46.78,46.78,high,low,7,spaceship,,,30/09/2026 02:35
 73aef637-a7be-4882-a9d1-991e10ee9665,bestower.voyage,available,58.99,58.99,medium,low,8,namesilo,,,23/09/2026 10:47
 ec7b4f05-cc4c-4880-9a8a-b6a0b6ce11b9,husband.voyage,available,58.99,58.99,high,low,7,namesilo,,,29/09/2026 23:14
+3c9e2697-b91c-4934-baa7-d45f147e60c3,drills.voyage,available,58.99,58.99,medium,low,6,namesilo,,,30/09/2026 15:41
 3960a621-90dd-4a0d-8c8a-746318ae6fda,equitably.voyage,available,58.99,58.99,medium,low,9,namesilo,,,14/09/2026 15:54
 617e229d-c944-494f-be21-c152cf014ccd,plutonium.voyage,available,58.99,58.99,high,low,9,namesilo,,,21/09/2026 00:12
-3cbd35d9-5173-4bcf-b7ae-59a51ae70505,machine.voyage,available,46.78,46.78,high,medium,7,spaceship,,,28/09/2026 03:22
+3cbd35d9-5173-4bcf-b7ae-59a51ae70505,machine.voyage,available,46.78,46.78,high,low,7,spaceship,,,30/09/2026 09:36
 3c0d3140-052a-4882-9977-de2f9766a6cb,snooty.voyage,available,9.99,83.99,medium,low,6,name.com,,,09/08/2026 20:39
 4f13f128-7bfc-4d41-ba29-8b077817f3b5,betrayer.voyage,available,58.99,58.99,medium,low,8,namesilo,,,23/09/2026 11:31
-6e35140d-01e7-47a8-858b-ecd3d6a2585d,stemmed.voyage,available,9.99,83.99,high,low,7,name.com,,,11/08/2026 22:33
+6e35140d-01e7-47a8-858b-ecd3d6a2585d,stemmed.voyage,available,9.99,83.99,medium,low,7,name.com,,,11/08/2026 22:33
+4cb0ee86-d4d6-41b0-9a04-58532c37ccab,intimidation.voyage,available,5.57,48.37,medium,low,12,dynadot,,,30/09/2026 06:21
 c05011fb-c1ed-49cd-b9f9-ec27ee73aa15,roguish.voyage,available,9.99,83.99,medium,low,7,name.com,,,10/08/2026 11:58
 c600ca47-5d9b-4bc2-ae32-f524abf82394,lacking.voyage,available,5.66,46.86,medium,low,7,porkbun,,,28/09/2026 10:18
 11606914-2fad-44de-8b16-421e9f6bd595,gracious.voyage,available,61.98,73.98,high,low,8,namecheap,,,24/09/2026 00:42
 de780e49-fd0e-4085-9ee0-1b67fc92353e,poke.voyage,available,9.99,83.99,high,low,4,name.com,,,22/08/2026 18:45
 60cff1b6-81dd-44fd-9d04-0d44fc5cc30b,venturous.voyage,available,9.99,83.99,high,low,9,name.com,,,13/08/2026 17:49
-ba644a83-a793-4591-a684-3b6e7fd7db99,derelict.voyage,available,58.99,58.99,high,low,8,namesilo,,,21/09/2026 13:39
+ba644a83-a793-4591-a684-3b6e7fd7db99,derelict.voyage,available,58.99,58.99,medium,low,8,namesilo,,,21/09/2026 13:39
 6d117a20-9146-4a04-ad34-cff0d2697f2d,convictions.voyage,available,45.2,45.2,low,low,11,cloudflare,,,29/09/2026 04:50
 b187e8d8-2668-4799-a9b0-7c7fec6fd1d0,satisfaction.voyage,available,5.57,48.37,high,low,12,dynadot,,,28/09/2026 04:23
 5f6ee092-146a-4451-a14a-4c4de653b68b,alternator.voyage,available,58.99,58.99,medium,low,10,namesilo,,,18/09/2026 14:48
@@ -717,12 +793,13 @@ f599d482-e376-410f-884f-a3ae7eb5afa1,epochal.voyage,available,9.99,83.99,medium,
 aff61e32-df3a-4be0-8bad-426b598fd5bc,attested.voyage,available,9.99,83.99,medium,low,8,name.com,,,07/08/2026 15:41
 71162874-30de-4517-9a55-cfc3dcd10edd,seeking.voyage,available,5.66,46.86,high,low,7,porkbun,,,27/09/2026 15:47
 5b5ee50b-063a-4c98-9e94-b16080d4f698,daley.voyage,available,61.98,73.98,high,low,5,namecheap,,,28/09/2026 11:42
-d542b7c5-76cf-49d5-8067-fd84a5bc832f,coding.voyage,available,46.78,46.78,high,low,6,spaceship,,,28/09/2026 05:32
+d542b7c5-76cf-49d5-8067-fd84a5bc832f,coding.voyage,available,46.78,46.78,high,low,6,spaceship,,,01/10/2026 03:35
 59cc786c-9673-41bc-9277-50e6d073a527,windblown.voyage,available,58.99,58.99,medium,low,9,namesilo,,,13/09/2026 12:08
 5bb30a4e-540b-4933-8197-e7fbcb4bac11,sign.voyage,available,58.99,58.99,high,low,4,namesilo,,,27/09/2026 22:02
+4e71b97d-c2ae-4081-8480-00edc6595b06,rosenbaum.voyage,available,46.78,46.78,high,low,9,spaceship,,,30/09/2026 05:15
 c4b34c7e-9b57-4b17-8a49-8a759d273e64,savagery.voyage,available,58.99,58.99,medium,low,8,namesilo,,,22/09/2026 04:29
 5f8dcbbf-00d1-4082-a391-5109cdda34df,opposite.voyage,available,58.99,58.99,high,low,8,namesilo,,,23/09/2026 22:35
-4df14756-d407-4069-be69-c6cb96463ac0,waterhouse.voyage,available,5.57,48.37,high,low,10,dynadot,,,28/09/2026 21:43
+4df14756-d407-4069-be69-c6cb96463ac0,waterhouse.voyage,available,5.57,48.37,medium,low,10,dynadot,,,28/09/2026 21:43
 5fa54cf8-ddf0-41eb-83f0-fd6bd2a48036,told.voyage,available,9.99,,medium,low,4,name.com,,,
 99ad2141-9999-4499-9eea-a0dba062b4f5,cleopatra.voyage,available,5.57,48.37,high,low,9,dynadot,,,29/09/2026 09:59
 3e03d2b3-3dd9-4a9b-8cd5-101493327bde,kato.voyage,available,46.78,46.78,high,low,4,spaceship,,,29/09/2026 09:49
@@ -732,9 +809,12 @@ dd388d76-5da0-4de4-9bde-26d9c8bf1a5a,changer.voyage,available,58.99,58.99,high,l
 ba046300-3bb5-411d-951e-d73476ee2f08,doting.voyage,available,9.99,83.99,high,low,6,name.com,,,14/08/2026 16:28
 221807c2-1050-4816-979e-5d9c55bfb341,octopus.voyage,available,46.78,46.78,high,medium,7,spaceship,,,30/09/2026 02:24
 d2813055-7411-41de-aeef-4bd8eb345154,images.voyage,available,46.78,46.78,high,low,6,spaceship,,,27/09/2026 22:08
-3ac72ef6-bc0a-463c-a558-309bc3f550ba,cheesy.voyage,available,58.99,58.99,high,low,6,namesilo,,,23/09/2026 11:13
+3ac72ef6-bc0a-463c-a558-309bc3f550ba,cheesy.voyage,available,58.99,58.99,medium,low,6,namesilo,,,23/09/2026 11:13
+f3db0c05-1563-4962-a34d-b7a0b4a8b755,cra.voyage,available,5.57,48.37,high,low,3,dynadot,,,30/09/2026 12:45
 1d9187b9-7a7f-4a05-9b6a-967dc19b8ffe,blacken.voyage,available,9.99,83.99,medium,low,7,name.com,,,10/08/2026 11:10
 f56645fc-6374-4ff0-8c54-63f9a6b984a6,scheduled.voyage,available,5.66,46.86,high,low,9,porkbun,,,27/09/2026 18:26
+7bc3591b-0ee5-4c0a-a6df-529d350b26e1,chatting.voyage,available,46.78,46.78,high,low,8,spaceship,,,30/09/2026 16:02
+593724fb-20a2-48c7-af45-947b3ea8860d,rams.voyage,available,46.78,46.78,high,low,4,spaceship,,,30/09/2026 20:33
 32ef00e9-1437-4a22-85d1-f51f0d00ef68,traded.voyage,available,58.99,58.99,medium,low,6,namesilo,,,29/09/2026 04:46
 98b93563-8ddc-477b-8035-93a06148f0ff,immunity.voyage,available,46.78,46.78,high,low,8,spaceship,,,28/09/2026 14:20
 96bad0fd-355a-4033-b8e5-edcbb6074d11,xia.voyage,available,46.78,46.78,high,low,3,spaceship,,,29/09/2026 22:40
@@ -742,21 +822,25 @@ f887b36c-2972-4de1-ae4a-ce92c8e7d8ce,manny.voyage,available,46.78,46.78,high,low
 f9258e96-e749-4b9f-96ab-765fa046ef90,katherine.voyage,available,58.99,58.99,high,low,9,namesilo,,,28/09/2026 03:49
 0b3c6577-7225-45c7-aa49-c654e669c9e7,acarpelous.voyage,available,9.99,83.99,medium,low,10,name.com,,,
 b3d8ed5b-6e17-4d30-9dd4-0a33a0ba5338,lydia.voyage,available,58.99,58.99,high,low,5,namesilo,,,25/09/2026 09:12
-dff849bd-3def-4ec7-8ae2-5b2bfaad9567,sleeved.voyage,available,9.99,83.99,high,low,7,name.com,,,10/09/2026 10:43
+dff849bd-3def-4ec7-8ae2-5b2bfaad9567,sleeved.voyage,available,9.99,83.99,medium,low,7,name.com,,,10/09/2026 10:43
 4c14dd63-f96f-4f9a-b998-3fc08598ffdd,grants.voyage,available,58.99,58.99,high,low,6,namesilo,,,29/09/2026 09:56
 fe72150b-cb3b-4534-9193-8cceb2a69c51,polled.voyage,available,61.98,73.98,high,low,6,namecheap,,,20/09/2026 17:21
-bd2e32e7-10ed-4ba5-88e3-4316b05a65aa,amberjack.voyage,available,58.99,58.99,high,low,9,namesilo,,,18/09/2026 16:35
+bd2e32e7-10ed-4ba5-88e3-4316b05a65aa,amberjack.voyage,available,58.99,58.99,medium,low,9,namesilo,,,18/09/2026 16:35
 bb06e489-1c66-4927-bd56-e73ce2f4effa,linden.voyage,available,61.98,73.98,medium,low,6,namecheap,,,22/09/2026 12:37
 20c51ebd-2900-4a20-a313-267a31454b67,aubergine.voyage,available,58.99,58.99,high,low,9,namesilo,,,21/09/2026 02:33
 c8a8704f-d330-490a-ae84-b02648851849,sort.voyage,available,61.98,73.98,high,low,4,namecheap,,,25/09/2026 12:43
 1d57e9db-5d3c-4240-9678-9f0989e78ae8,smarter.voyage,available,58.99,58.99,high,low,7,namesilo,,,29/09/2026 10:30
 f0b8e8a8-63fc-451a-a4b2-d806ce8443ef,villagers.voyage,available,45.2,45.2,medium,low,9,cloudflare,,,29/09/2026 05:33
+98da7555-d575-4b1d-96f6-d5aea4da0cd5,prepares.voyage,available,61.98,73.98,medium,low,8,namecheap,,,30/09/2026 16:00
 6e89dc6f-32ec-4582-a1eb-dc0fc138fd0d,dinesen.voyage,available,58.99,58.99,medium,low,7,namesilo,,,22/09/2026 07:24
-64f64b4f-8ee1-4c35-9de7-69a33e12726f,psyche.voyage,available,9.99,,high,low,6,name.com,,,
+e5104c03-99b3-4fd7-aebf-ca26bc667d33,sylvania.voyage,available,58.99,58.99,medium,low,8,namesilo,,,30/09/2026 22:13
+64f64b4f-8ee1-4c35-9de7-69a33e12726f,psyche.voyage,available,46.78,46.78,high,low,6,spaceship,,,30/09/2026 04:32
+50033874-9017-41fb-8513-bbca4a041a7c,blois.voyage,available,58.99,58.99,medium,low,5,namesilo,,,30/09/2026 21:55
 61d17092-0dbe-42a8-873c-336e1d66effc,virtuous.voyage,available,58.99,58.99,high,low,8,namesilo,,,13/09/2026 06:06
-787d079f-58c3-44c8-9ad2-e7a9ad1a3d36,arlene.voyage,available,61.98,73.98,high,low,6,namecheap,,,29/09/2026 22:07
+787d079f-58c3-44c8-9ad2-e7a9ad1a3d36,arlene.voyage,available,61.98,73.98,medium,low,6,namecheap,,,29/09/2026 22:07
 f3344285-f728-4427-b534-f474ec0020bc,barefooted.voyage,available,9.99,83.99,medium,low,10,name.com,,,08/08/2026 18:59
 75ebd249-f0e4-4332-abfb-9feb4ed1ef98,barking.voyage,available,46.78,46.78,medium,low,7,spaceship,,,28/09/2026 11:18
+ecc5b2c5-11c1-4252-b12e-15e0ec06ca8b,excluded.voyage,available,5.57,48.37,low,low,8,dynadot,,,30/09/2026 06:16
 b4172351-4278-452e-9ac7-8b2760293d6d,linnaeus.voyage,available,45.2,45.2,medium,low,8,cloudflare,,,28/09/2026 05:24
 d8a5390c-f4f5-48f6-82c2-ba99f540fa7a,untaught.voyage,available,61.98,73.98,medium,low,8,namecheap,,,12/09/2026 18:56
 31d70d3c-0f03-4717-b0a3-afc799da6a50,volt.voyage,available,58.99,58.99,high,low,4,namesilo,,,13/09/2026 00:34
@@ -771,6 +855,7 @@ b80c0eb9-71de-4824-a7d3-3b853d3a95e4,scummy.voyage,available,9.99,83.99,medium,l
 65d4fffd-01e4-48bd-876c-46908fe74d92,trent.voyage,available,58.99,58.99,high,low,5,namesilo,,,25/09/2026 10:26
 dc47fb8c-a626-4f45-a61a-357fd1f8b5ff,glorious.voyage,available,9.99,83.99,high,low,8,name.com,,,20/08/2026 14:48
 736baa99-3b84-4236-81dd-ca0dbe26426f,margosa.voyage,available,58.99,58.99,medium,low,7,namesilo,,,20/09/2026 05:43
+7a358363-cbcb-4ccc-a657-3a55ca3cbea1,margo.voyage,available,45.2,45.2,high,low,5,cloudflare,,,30/09/2026 06:36
 6d715e0f-349a-413a-92c8-765ea0e21af5,dion.voyage,available,58.99,58.99,medium,low,4,namesilo,,,28/09/2026 09:08
 8f4d37df-0c10-4eeb-b381-a9484a9ae7e8,greek.voyage,available,58.99,58.99,high,low,5,namesilo,,,08/09/2026 07:29
 3af5f743-d9c3-4fe5-97e5-15a5f004812e,dead.voyage,available,58.99,58.99,high,low,4,namesilo,,,24/09/2026 04:40
@@ -779,7 +864,7 @@ faff0210-584f-4a7a-aedf-6ca8eed54065,quarry.voyage,available,45.2,45.2,high,low,
 d76299d7-c3fe-4c56-bcb3-f24599f7dfa5,sanctioned.voyage,available,9.99,83.99,medium,low,10,name.com,,,06/08/2026 09:24
 ece0000b-18bb-429d-8b3f-3e6641800a4a,purr.voyage,available,61.98,73.98,high,low,4,namecheap,,,23/09/2026 20:53
 b67c2eb1-00b0-4200-a813-4166507938e6,madam.voyage,available,58.99,58.99,high,low,5,namesilo,,,24/09/2026 10:51
-9afa06d0-be75-4be6-8a71-3017f2821158,symbolical.voyage,available,9.99,83.99,high,low,10,name.com,,,16/08/2026 09:33
+9afa06d0-be75-4be6-8a71-3017f2821158,symbolical.voyage,available,9.99,83.99,medium,low,10,name.com,,,16/08/2026 09:33
 df939436-8126-48c0-ba00-6d6f14f76555,buggy.voyage,available,58.99,58.99,high,low,5,namesilo,,,22/09/2026 08:13
 8554955c-2541-4bea-b97d-54a614763b92,malik.voyage,available,46.78,46.78,high,low,5,spaceship,,,29/09/2026 13:22
 c5084d99-6f08-49ff-848a-f72b32ff3ecf,carangid.voyage,available,9.99,83.99,medium,low,8,name.com,,,11/08/2026 18:31
@@ -790,14 +875,16 @@ fa73d664-ad9c-4068-a0c0-013cff44922c,bessie.voyage,available,61.98,73.98,medium,
 631fdb2c-3237-475d-aa70-3d49401b3b95,vaginal.voyage,available,58.99,58.99,medium,low,7,namesilo,,,13/09/2026 00:49
 3f742927-76f9-4707-8c86-79d251334d53,whir.voyage,available,58.99,58.99,medium,low,4,namesilo,,,13/09/2026 11:30
 35f54078-7c5f-4c31-ae6b-eb76f3597a43,harbin.voyage,available,45.2,45.2,high,low,6,cloudflare,,,29/09/2026 22:05
-ab2690de-25c2-4901-ba11-5e3eebb8f970,partido.voyage,available,45.2,45.2,high,low,7,cloudflare,,,29/09/2026 08:45
+ab2690de-25c2-4901-ba11-5e3eebb8f970,partido.voyage,available,45.2,45.2,medium,low,7,cloudflare,,,29/09/2026 08:45
 3acf059f-5287-44f3-abb1-25a6d391b8b4,fiction.voyage,available,46.78,46.78,high,low,7,spaceship,,,29/09/2026 18:50
 b571533b-10d3-47ba-8eb8-c8b68a5ece83,anasa.voyage,available,58.99,58.99,medium,low,5,namesilo,,,19/09/2026 03:09
+52c0e29d-e1bc-49be-bf91-abc2027f47bd,henriette.voyage,available,46.78,46.78,medium,low,9,spaceship,,,30/09/2026 04:48
 854a90e1-2f5c-419a-8982-dcd58eb86767,mcguire.voyage,available,58.99,58.99,high,low,7,namesilo,,,27/09/2026 08:49
 a80f4619-1fa5-437d-8a0c-ce7e67faf02c,medal.voyage,available,89.99,89.99,high,low,5,godaddy,,,30/09/2026 02:12
 32083071-f330-4f48-afd7-e929b8baf14d,bowling.voyage,available,58.99,58.99,high,low,7,namesilo,,,27/09/2026 03:22
 a6538c68-3347-40e1-a771-42ec8f8aebc5,submarines.voyage,available,5.57,48.37,medium,low,10,dynadot,,,29/09/2026 17:53
 1182ebdd-20e5-49c4-b9f9-1b80a76bfc53,womb.voyage,available,45.2,45.2,high,low,4,cloudflare,,,28/09/2026 20:42
+a9abf8db-0f0b-449c-8dcf-bd2887def4ac,textbooks.voyage,available,5.57,48.37,medium,low,9,dynadot,,,30/09/2026 16:14
 a0c5608f-bd42-400e-829f-32bc54fa26dd,multipurpose.voyage,available,9.99,,medium,low,13,name.com,,,
 ebb6e0e7-b414-4b40-801e-0ee081d0b94e,circular.voyage,available,58.99,58.99,high,low,8,namesilo,,,23/09/2026 09:44
 b84cac4a-4705-47cb-b19c-b4f72395cc49,roses.voyage,available,61.98,73.98,high,low,5,namecheap,,,17/09/2026 21:17
@@ -808,20 +895,21 @@ d9a64558-7313-4716-a3a0-b63b48624219,nosey.voyage,available,58.99,58.99,medium,l
 90f2ddef-0f1b-4655-a589-7449f908ee07,prunus.voyage,available,46.78,46.78,high,low,6,spaceship,,,30/09/2026 01:43
 95f3aa36-ef2c-405b-8a00-42bc8e761fde,ethically.voyage,available,58.99,58.99,high,low,9,namesilo,,,14/09/2026 16:20
 f1fd4452-2c0a-4419-80b7-7dea785f930a,untasted.voyage,available,61.98,73.98,medium,low,8,namecheap,,,12/09/2026 21:05
-32a43116-0ba2-4a71-aa0e-4e77f20e4109,discourage.voyage,available,45.2,45.2,high,low,10,cloudflare,,,29/09/2026 20:38
-e946c7a6-fedc-4add-9724-3c26d8449123,mandaean.voyage,available,9.99,83.99,high,low,8,name.com,,,24/08/2026 14:38
+32a43116-0ba2-4a71-aa0e-4e77f20e4109,discourage.voyage,available,45.2,45.2,medium,low,10,cloudflare,,,29/09/2026 20:38
+e946c7a6-fedc-4add-9724-3c26d8449123,mandaean.voyage,available,9.99,83.99,medium,low,8,name.com,,,24/08/2026 14:38
 9739ffc2-bc7f-4b41-b26f-14f1edb689ec,moderately.voyage,available,9.99,83.99,medium,low,10,name.com,,,25/09/2026 12:00
 7ecff2d3-3f65-453e-8b33-ecbf939e9ca0,biggest.voyage,available,58.99,58.99,medium,low,7,namesilo,,,27/09/2026 02:42
-95a92f17-0313-4bd0-b01a-26976a2be4b7,minutes.voyage,available,9.99,,high,low,7,name.com,,,
+95a92f17-0313-4bd0-b01a-26976a2be4b7,minutes.voyage,available,46.78,46.78,high,low,7,spaceship,,,30/09/2026 04:36
 001b8987-ab97-449c-95e7-c5d856b0338b,slivery.voyage,available,58.99,58.99,medium,low,7,namesilo,,,10/09/2026 11:13
-9ff3ba11-bd10-4c94-ba9d-4d2c8e2ee030,ridicule.voyage,available,58.99,58.99,high,low,8,namesilo,,,24/09/2026 02:25
+9ff3ba11-bd10-4c94-ba9d-4d2c8e2ee030,ridicule.voyage,available,58.99,58.99,medium,low,8,namesilo,,,24/09/2026 02:25
 84cd6e51-58a4-42a9-a6c6-c3dda9d006c4,tacky.voyage,available,9.99,83.99,medium,low,5,name.com,,,18/08/2026 06:41
 48573843-7a32-4542-9808-0dcc2784268d,kenaf.voyage,available,58.99,58.99,medium,low,5,namesilo,,,23/09/2026 16:55
+6a367024-3b68-496b-b0f1-a0666994d933,platforms.voyage,available,46.78,46.78,medium,low,9,spaceship,,,01/10/2026 00:18
 b328a762-dd13-4aa5-b1cb-142e751d1600,sylvia.voyage,available,46.78,46.78,high,low,6,spaceship,,,27/09/2026 19:08
 595c1db5-9116-4648-a1b2-f1515100f62f,zonary.voyage,available,58.99,58.99,medium,low,6,namesilo,,,13/09/2026 15:31
 723fb512-52c6-4fc4-abd4-86e8dbbbf991,restraining.voyage,available,5.57,48.37,medium,low,11,dynadot,,,29/09/2026 03:20
 47f4e122-2d50-48d2-a43a-97bdfcef9ef5,veridical.voyage,available,58.99,58.99,high,low,9,namesilo,,,13/09/2026 02:24
-c75de5f2-5eb4-4386-801a-f2b99cf79a2f,require.voyage,available,9.99,,high,low,7,name.com,,,
+c75de5f2-5eb4-4386-801a-f2b99cf79a2f,require.voyage,available,45.2,45.2,high,low,7,cloudflare,,,30/09/2026 05:27
 309cb709-e7d5-49b3-9dcc-70906c5b6283,bellflower.voyage,available,58.99,58.99,high,low,10,namesilo,,,23/09/2026 06:06
 8cdee693-2ed5-48da-9d9e-fd06567b02fa,literate.voyage,available,9.99,83.99,high,low,8,name.com,,,24/08/2026 07:26
 ece23337-d9a2-4660-931c-12c1913efe7d,rewrite.voyage,available,61.98,73.98,high,low,7,namecheap,,,29/09/2026 13:47
@@ -844,18 +932,18 @@ fdfaa3f9-b647-45ab-9f0f-5c7cac40389f,inflammatory.voyage,available,46.78,46.78,m
 ff1fdfb8-4443-4bd9-8a13-cde301f31ed2,frustration.voyage,available,45.2,45.2,medium,low,11,cloudflare,,,28/09/2026 17:13
 f4d61556-e33f-4fa6-ac05-caa650b8b647,fogbound.voyage,available,9.99,83.99,medium,low,8,name.com,,,18/08/2026 09:49
 ab3c20a2-f6bf-4df5-a2ac-badc14792c68,creditably.voyage,available,58.99,58.99,medium,low,10,namesilo,,,14/09/2026 09:30
-c648065b-297a-45da-9e26-b5750e4c9a7a,finance.voyage,available,45.2,45.2,high,medium,7,cloudflare,,,28/09/2026 03:52
+c648065b-297a-45da-9e26-b5750e4c9a7a,finance.voyage,available,46.78,46.78,high,medium,7,spaceship,,,30/09/2026 15:58
 8f6b6b97-58b8-4a04-89fd-4bdf2b7b5ef5,amygdala.voyage,available,61.98,73.98,high,low,8,namecheap,,,19/09/2026 00:23
 ddc6930e-68a7-4c21-ab79-58ce96438baf,colors.voyage,available,58.99,58.99,high,low,6,namesilo,,,29/09/2026 10:19
 ef508eee-7ba1-41b5-9155-dc8a0005a1b0,tenth.voyage,available,58.99,58.99,high,low,5,namesilo,,,21/09/2026 11:17
 b36dcde4-c96e-458a-93dc-00cad6d4d98d,picking.voyage,available,58.99,58.99,high,low,7,namesilo,,,25/09/2026 09:58
-e2dfca1d-706a-4444-a4dd-aac339029441,will.voyage,available,9.99,,high,medium,4,name.com,,,
+e2dfca1d-706a-4444-a4dd-aac339029441,will.voyage,available,58.99,58.99,high,medium,4,namesilo,,,30/09/2026 14:37
 c7d84c59-0c63-4351-a4e7-0e29985b5403,chimerical.voyage,available,9.99,83.99,medium,low,10,name.com,,,12/08/2026 05:38
 e129492b-3f4b-4eda-b988-ef784b6902c1,polynomial.voyage,available,58.99,58.99,high,low,10,namesilo,,,03/09/2026 10:48
 8c1f0a68-3291-4fdc-ac21-8847e29998ec,teaspoons.voyage,available,58.99,58.99,medium,low,9,namesilo,,,19/09/2026 22:48
 512bf8e2-f29d-45e6-94bc-2e9715efa298,debris.voyage,available,5.57,48.37,medium,low,6,dynadot,,,28/09/2026 18:54
 24b01154-2be5-42ab-be18-d1cc1b83c701,cursive.voyage,available,9.99,83.99,high,low,7,name.com,,,13/08/2026 11:36
-b67ccaad-ca7f-4433-8018-2eaac7a7e260,balochi.voyage,available,58.99,58.99,high,low,7,namesilo,,,21/09/2026 23:40
+b67ccaad-ca7f-4433-8018-2eaac7a7e260,balochi.voyage,available,58.99,58.99,medium,low,7,namesilo,,,21/09/2026 23:40
 57b375d3-675b-4099-8650-66e0d8d85deb,chores.voyage,available,46.78,46.78,medium,low,6,spaceship,,,29/09/2026 17:46
 8646359d-a9dc-4c9d-8b0a-401c0caf9f84,tilefish.voyage,available,58.99,58.99,medium,low,8,namesilo,,,24/09/2026 04:04
 614cf82e-8c9f-494e-b8cf-af2da549df1a,hydroxy.voyage,available,9.99,83.99,medium,low,7,name.com,,,21/08/2026 16:25
@@ -866,21 +954,22 @@ c20e36b0-ffb5-4e2f-85be-16d04d880e40,sloth.voyage,available,46.78,46.78,high,low
 061a26ce-6935-4457-b001-f2d33b630abf,afternoon.voyage,available,61.98,73.98,high,low,9,namecheap,,,28/09/2026 19:25
 25a77989-ca8e-43ce-a3f6-c0c1fa38d510,surprised.voyage,available,89.99,89.99,high,low,9,godaddy,,,28/09/2026 02:04
 8349fe18-10c2-486e-89ea-c91e5ad4ab30,aralia.voyage,available,58.99,58.99,medium,low,6,namesilo,,,19/09/2026 23:52
-064c2aa5-8d8f-4726-9473-46f6e56660d7,unfriendly.voyage,available,9.99,83.99,high,low,10,name.com,,,22/08/2026 05:19
+064c2aa5-8d8f-4726-9473-46f6e56660d7,unfriendly.voyage,available,9.99,83.99,medium,low,10,name.com,,,22/08/2026 05:19
 634517fa-29cb-437a-9617-58203ed06416,ailment.voyage,available,9.99,83.99,medium,low,7,name.com,,,21/08/2026 18:47
 d06244e9-d583-462d-af74-769814de3cb7,field.voyage,available,58.99,58.99,high,medium,5,namesilo,,,27/09/2026 03:55
 664f8979-592e-40a0-a586-fea5b4268abb,piffling.voyage,available,9.99,83.99,low,low,8,name.com,,,18/08/2026 03:35
-63b5a4bd-0e74-47bc-aff2-99c016ab2a5c,qualifier.voyage,available,9.99,,high,low,9,name.com,,,
+63b5a4bd-0e74-47bc-aff2-99c016ab2a5c,qualifier.voyage,available,5.66,46.86,high,low,9,porkbun,,,30/09/2026 04:52
 38f8f31a-4031-473a-beaf-a01c05bebc81,dreams.voyage,available,61.98,73.98,high,low,6,namecheap,,,25/09/2026 20:24
 5c8077fb-a9fe-43fe-85c3-2251fa30366e,vedic.voyage,available,58.99,58.99,medium,low,5,namesilo,,,13/09/2026 01:37
 e2b4ada8-9703-46a6-aba8-7b0634d8046f,figure.voyage,available,58.99,58.99,high,low,6,namesilo,,,24/09/2026 16:50
 a2cd491d-ff6e-4f79-abb2-b2480b65cfa6,pesky.voyage,available,9.99,83.99,medium,low,5,name.com,,,
 75ae7009-90e6-44f0-8e46-166ba80240c9,bitmap.voyage,available,61.98,73.98,high,low,6,namecheap,,,23/09/2026 22:40
-7ed070f8-435d-49ea-8d07-7b51240c20d8,thiamin.voyage,available,58.99,58.99,high,low,7,namesilo,,,19/09/2026 05:39
+7ed070f8-435d-49ea-8d07-7b51240c20d8,thiamin.voyage,available,58.99,58.99,medium,low,7,namesilo,,,19/09/2026 05:39
 dbf0b05e-5d59-4668-a2b9-4b27a6ff146f,edu.voyage,premium,512,512,medium,medium,3,namesilo,,,28/09/2026 23:17
 82de28dd-25d3-4d33-93a2-6298852bedb5,showcase.voyage,available,58.99,58.99,high,low,8,namesilo,,,29/09/2026 16:09
 1d03d125-f8ae-4819-b23b-d1d44c7d8a58,jacobs.voyage,available,46.78,46.78,high,low,6,spaceship,,,28/09/2026 20:14
 6feae6f9-9b36-4eb1-a2ba-7beca16d3c78,hangs.voyage,available,58.99,58.99,low,low,5,namesilo,,,28/09/2026 08:56
+0defa837-9eff-4a32-a9ff-c99525b79240,bessarabia.voyage,available,61.98,73.98,medium,low,10,namecheap,,,30/09/2026 21:27
 ea14d48f-ffa8-482a-9d0a-819a2b9c501e,undecided.voyage,available,58.99,58.99,high,low,9,namesilo,,,04/09/2026 14:20
 a98a9800-9484-4e9f-8de8-95704bd34e59,planets.voyage,available,58.99,58.99,high,low,7,namesilo,,,18/09/2026 11:12
 b63ce206-0f46-4698-977a-a2be61b73174,scribble.voyage,available,58.99,58.99,high,low,8,namesilo,,,24/09/2026 11:35
@@ -888,7 +977,7 @@ b63ce206-0f46-4698-977a-a2be61b73174,scribble.voyage,available,58.99,58.99,high,
 e7e15153-cfc3-44f2-9aa6-fe2cdfb11c8e,unuttered.voyage,available,58.99,58.99,medium,low,9,namesilo,,,12/09/2026 09:47
 8f0fee68-cf63-41f6-9ed4-de45a7d27227,ambrosia.voyage,available,58.99,58.99,high,low,8,namesilo,,,18/09/2026 17:26
 7ac0b8b9-c2ef-4f1a-b207-f3fe33176bb8,nikola.voyage,available,46.78,46.78,high,low,6,spaceship,,,29/09/2026 22:11
-3eafc435-d28a-4ca7-8e24-838b92c0b248,alkalinity.voyage,available,61.98,73.98,high,low,10,namecheap,,,18/09/2026 08:19
+3eafc435-d28a-4ca7-8e24-838b92c0b248,alkalinity.voyage,available,61.98,73.98,medium,low,10,namecheap,,,18/09/2026 08:19
 011c42d6-31cc-4468-bb6d-f800794a9b69,bergenia.voyage,available,58.99,58.99,medium,low,8,namesilo,,,23/09/2026 09:20
 692b764f-3fde-40fe-b635-794b98f67526,storing.voyage,available,61.98,73.98,high,low,7,namecheap,,,28/09/2026 02:45
 b3fc3740-0a36-4c76-a22b-d3776acb065c,overboard.voyage,available,61.98,73.98,high,low,9,namecheap,,,15/09/2026 18:25
@@ -901,101 +990,12 @@ cc2f644c-a680-43a3-b84e-92462a27f795,hurtful.voyage,available,9.99,83.99,medium,
 f69c96ac-b903-474f-a9db-c6185ba3b0c6,umpire.voyage,available,61.98,73.98,medium,low,6,namecheap,,,20/09/2026 00:47
 4be4dae6-c6bc-4d7e-a789-9de96c13f8a0,birdwatch.voyage,available,61.98,73.98,high,low,9,namecheap,,,23/09/2026 19:35
 20c21d0a-feac-4ad2-be11-3380e7abe5d2,needless.voyage,available,9.99,83.99,medium,low,8,name.com,,,03/09/2026 14:55
+44a8870f-defc-405a-88b3-8d31e727573e,elm.voyage,available,5.66,46.86,high,low,3,porkbun,,,30/09/2026 09:31
 5a846e38-e13b-406a-9308-deb575c1182d,elijah.voyage,available,58.99,58.99,high,low,6,namesilo,,,29/09/2026 12:10
 e211d9b9-b786-4899-bf05-ea2ad7ab2c55,stein.voyage,available,58.99,58.99,high,low,5,namesilo,,,23/09/2026 01:47
 dc528f06-31fb-446e-b06d-308d0284f36b,construct.voyage,available,61.98,73.98,high,low,9,namecheap,,,24/09/2026 10:59
+ef1516eb-186d-46c9-8290-4664f8eb46ae,knack.voyage,available,5.57,48.37,high,low,5,dynadot,,,01/10/2026 02:24
 8bfdddb4-f092-48f9-b8e6-1d5ccd069463,paralyzed.voyage,available,58.99,58.99,medium,low,9,namesilo,,,08/09/2026 01:29
 886ace0b-1943-48a7-9173-0e6941e40930,nettlesome.voyage,available,9.99,83.99,medium,low,10,name.com,,,
 9ad5b62c-0aa4-4f24-84e0-d3af36c42203,obsessive.voyage,available,58.99,58.99,high,low,9,namesilo,,,25/09/2026 23:45
 786f95aa-0200-4950-ab1f-b54a2039c7b0,nihilist.voyage,available,61.98,73.98,medium,low,8,namecheap,,,19/09/2026 02:26
-948ea3b8-2806-4948-bf76-a8b948144f0d,practise.voyage,available,45.2,45.2,high,low,8,cloudflare,,,29/09/2026 01:53
-bbb48ea9-6724-4d9b-b970-f1a1ecae473b,abruzzi.voyage,available,58.99,58.99,medium,low,7,namesilo,,,16/09/2026 17:28
-da1fabb0-390f-4631-b1f1-89214df5402f,brahmins.voyage,available,46.78,46.78,medium,low,8,spaceship,,,30/09/2026 00:48
-4d42b27f-af55-43b7-9870-8b4ef4e98168,expired.voyage,available,9.99,83.99,medium,low,7,name.com,,,17/08/2026 18:21
-1ca86c1b-0165-4174-86aa-8b16eac8fc04,sculpted.voyage,available,9.99,83.99,high,low,8,name.com,,,20/08/2026 18:50
-1b72e859-ec89-4bfd-af6b-915e8d31a3b1,midweek.voyage,available,58.99,58.99,high,low,7,namesilo,,,13/09/2026 09:34
-f1467219-c043-44e6-b5b0-61ccedf1f033,pages.voyage,available,61.98,73.98,high,low,5,namecheap,,,17/09/2026 10:38
-d78de929-a0b7-4235-b6ca-9ce0f045a8ee,confusion.voyage,available,46.78,46.78,high,low,9,spaceship,,,29/09/2026 10:55
-167842ba-cc04-41eb-a8ef-7ca2ce8cda00,practically.voyage,available,58.99,58.99,high,low,11,namesilo,,,25/09/2026 11:39
-1f7deff9-8367-4895-9f7a-6d0291af331f,vertex.voyage,available,58.99,58.99,high,low,6,namesilo,,,19/09/2026 16:44
-b3be78d4-177a-40a5-89dd-0bc0d1a8151d,calf.voyage,available,58.99,58.99,high,low,4,namesilo,,,29/09/2026 05:52
-93432d1d-646d-46df-9e0e-774892804b96,untied.voyage,available,58.99,58.99,high,low,6,namesilo,,,12/09/2026 05:00
-9922cff4-db17-4580-bda8-b39c9bf00fe8,coexisting.voyage,available,9.99,83.99,medium,low,10,name.com,,,12/08/2026 15:32
-ef7e6df6-f672-42da-a720-ca46365cb556,energizing.voyage,available,9.99,83.99,high,low,10,name.com,,,
-e846a4de-54d3-4e39-8085-2282a7a4283a,dreary.voyage,available,9.99,83.99,medium,low,6,name.com,,,14/08/2026 11:47
-dddfbee3-4a2d-43aa-85d7-77fcb7ba6184,popping.voyage,available,46.78,46.78,high,low,7,spaceship,,,30/09/2026 02:36
-786197ed-3d9e-489c-a213-22aa2cca1845,deal.voyage,available,61.98,73.98,high,low,4,namecheap,,,19/09/2026 16:06
-e3dd7029-68f8-4d38-8221-bd0ff2ceed74,leftist.voyage,available,9.99,83.99,high,low,7,name.com,,,12/08/2026 17:05
-b36d564a-1255-4fd9-b1c0-9f28f239084c,medication.voyage,available,58.99,58.99,high,low,10,namesilo,,,30/09/2026 04:14
-e4dcb461-9726-49e1-a8a7-4ca2a9bf93c9,vowels.voyage,available,9.99,83.99,medium,low,6,name.com,,,20/09/2026 00:07
-ee5ae580-68b9-4991-8ca8-d53d64c5458a,agreeably.voyage,available,61.98,73.98,medium,low,9,namecheap,,,13/09/2026 18:22
-c48da695-c1d7-4bce-b997-5256818b69e7,disaster.voyage,available,58.99,58.99,high,low,8,namesilo,,,24/09/2026 11:38
-5e23a867-40f0-49f3-89b1-529c9c9abd6d,reluctant.voyage,available,9.99,83.99,medium,low,9,name.com,,,24/08/2026 08:21
-25087881-7cdd-439c-99fd-5d183ac8f02c,cheek.voyage,available,58.99,58.99,high,low,5,namesilo,,,24/09/2026 11:22
-a2fef952-a9df-4f69-8ee9-e074fd558fee,subsequent.voyage,available,58.99,58.99,high,low,10,namesilo,,,11/09/2026 00:44
-7f02b419-74f4-45f4-bbc7-053aef708e44,jeans.voyage,available,58.99,58.99,medium,low,5,namesilo,,,28/09/2026 12:09
-8acae90f-a3a1-4727-94ab-e781cf686ed4,dug.voyage,available,46.78,46.78,high,low,3,spaceship,,,28/09/2026 05:32
-0566a467-5816-41bb-9c9d-30dfa1327083,artificer.voyage,available,58.99,58.99,high,low,9,namesilo,,,20/09/2026 11:38
-e4e3ad94-79ee-4122-86aa-04fab3dce987,puzzling.voyage,available,9.99,83.99,high,low,8,name.com,,,17/08/2026 09:15
-8e325fc7-d5f5-4666-a791-9c70752f2133,uniforms.voyage,available,61.98,73.98,medium,low,8,namecheap,,,28/09/2026 00:32
-f9a31004-d4e4-4fa6-84fd-2d4119140f80,coleman.voyage,available,58.99,58.99,high,low,7,namesilo,,,25/09/2026 15:48
-9753f15d-e194-408f-9873-710dfe6cd27e,siegfried.voyage,available,58.99,58.99,high,low,9,namesilo,,,30/09/2026 02:51
-46ba671d-c897-494a-b1b7-d51fb81740ee,milwaukee.voyage,available,46.78,46.78,high,low,9,spaceship,,,29/09/2026 01:40
-33738c4a-adc9-416c-aec0-0c7209a75c75,rotter.voyage,available,9.99,83.99,medium,low,6,name.com,,,11/08/2026 09:08
-0389ccea-8e48-42fd-a2b2-aaa4cd7e23aa,blasting.voyage,available,9.99,83.99,high,low,8,name.com,,,10/08/2026 13:10
-0a5e0b34-8ad9-429e-b1f1-c5300a823d3b,liar.voyage,available,58.99,58.99,high,low,4,namesilo,,,27/09/2026 14:44
-e260a61c-0367-42fb-acec-dc62e05eb025,won.voyage,available,58.99,58.99,high,low,3,namesilo,,,28/09/2026 10:43
-9e15bff4-2544-4b80-9995-40912b403428,flexibility.voyage,available,46.78,46.78,high,low,11,spaceship,,,29/09/2026 16:16
-702e089f-9d9b-4589-ad6c-60bc7f5626aa,quite.voyage,available,58.99,58.99,high,low,5,namesilo,,,28/09/2026 16:35
-20b1dc10-5fe1-43d5-a4c7-9b7413979c0d,alonzo.voyage,available,46.78,46.78,medium,low,6,spaceship,,,28/09/2026 17:51
-924e160b-6a10-4688-ac3d-125f3bf56ff0,anima.voyage,available,58.99,58.99,high,medium,5,namesilo,,,19/09/2026 08:28
-e3881687-59fa-4904-88af-b1de30aeb818,bluebottle.voyage,available,58.99,58.99,high,low,10,namesilo,,,21/09/2026 14:09
-bcf9bc85-7615-431a-8139-ecef68bad21b,neotenous.voyage,available,58.99,58.99,medium,low,9,namesilo,,,03/09/2026 15:33
-c3771148-f5ab-4d61-81bb-b40164dd7c52,paused.voyage,available,58.99,58.99,medium,low,6,namesilo,,,18/09/2026 02:16
-72a2d545-54a9-4c1d-89e3-d8bf833fbedb,eventually.voyage,available,58.99,58.99,high,low,10,namesilo,,,14/09/2026 16:32
-ba490dd7-6e17-4b61-b496-0e814499b29e,accelerator.voyage,available,58.99,58.99,high,low,11,namesilo,,,28/09/2026 02:37
-0ca3e22d-dc61-46e1-b6fd-396960dfaa7e,installed.voyage,available,46.78,46.78,medium,low,9,spaceship,,,28/09/2026 12:57
-34040274-b335-4b33-b62a-69c955376dc3,translation.voyage,available,9.99,,high,low,11,name.com,,,
-d1830e26-4f24-4999-95e1-5fb0d7bc3586,anthriscus.voyage,available,58.99,58.99,medium,low,10,namesilo,,,19/09/2026 13:53
-7077caad-8497-4b1e-976e-1420cdc17190,autoimmune.voyage,available,9.99,83.99,medium,low,10,name.com,,,07/08/2026 20:32
-dcd45636-d363-4015-8fee-c82db1a89642,damask.voyage,available,9.99,83.99,medium,low,6,name.com,,,13/08/2026 16:09
-893f7423-ef8c-42f1-9592-9d5988db534c,bedbug.voyage,available,58.99,58.99,high,low,6,namesilo,,,22/09/2026 22:45
-277532fa-a242-4b45-9e36-e24567825493,pursue.voyage,available,61.98,73.98,high,low,6,namecheap,,,28/09/2026 06:57
-f4382e91-53b6-4fdf-a50f-4e90480d5639,afterwards.voyage,available,9.99,83.99,medium,low,10,name.com,,,
-b13eaeb8-503f-4a30-9b19-f389b062c3e5,armand.voyage,available,46.78,46.78,high,low,6,spaceship,,,28/09/2026 07:26
-69cc7073-ad35-41c7-a1ef-c6376d6dbf37,apoapsis.voyage,available,61.98,73.98,medium,low,8,namecheap,,,19/09/2026 18:07
-b987d87a-4b96-4f8f-87e3-3fac13aded3e,alfredo.voyage,available,46.78,46.78,high,low,7,spaceship,,,28/09/2026 04:35
-ce7950f5-a079-46e9-ba45-bac132771728,ascendant.voyage,available,9.99,83.99,high,low,9,name.com,,,
-08428a23-cfc8-47e3-879c-3ab6ba2736f5,procurement.voyage,available,45.2,45.2,high,low,11,cloudflare,,,28/09/2026 08:19
-71511b03-f2ee-456a-b1f4-dee9bcac1d6a,wulfila.voyage,available,58.99,58.99,medium,low,7,namesilo,,,23/09/2026 21:57
-6a2f47a4-ee4c-4c99-bfbe-86461bcae427,dominant.voyage,available,9.99,83.99,high,low,8,name.com,,,14/08/2026 15:41
-3802abef-61a3-449b-933d-1f794bc35f74,reputable.voyage,available,58.99,58.99,high,low,9,namesilo,,,09/09/2026 14:45
-3fc143a5-2228-4907-a220-6677beff8ab4,deductible.voyage,available,9.99,83.99,high,low,10,name.com,,,13/08/2026 22:27
-bcfd0322-27ce-447c-a9fb-2698705e96cd,tides.voyage,available,61.98,73.98,medium,low,5,namecheap,,,29/09/2026 23:02
-cd106fd7-6906-4fa0-9bc1-f409a5fb7525,neatly.voyage,available,58.99,58.99,high,low,6,namesilo,,,15/09/2026 16:16
-b26ecaa9-00aa-4ab3-9515-e8343ae6a2a2,howard.voyage,available,58.99,58.99,high,low,6,namesilo,,,25/09/2026 04:08
-86331474-4083-4e5a-88e9-e5e7eb65858b,clausal.voyage,available,9.99,83.99,medium,low,7,name.com,,,12/08/2026 10:00
-f7c89f81-74c2-4c28-b64c-33c2a1baec1f,embarrassed.voyage,available,58.99,58.99,medium,low,11,namesilo,,,27/09/2026 06:32
-d6e09f52-e4da-4160-ba28-8c9c47650c35,indirectly.voyage,available,58.99,58.99,medium,low,10,namesilo,,,15/09/2026 07:58
-a1023285-f4cd-4c45-9685-b8450277504b,demesne.voyage,available,61.98,73.98,medium,low,7,namecheap,,,17/09/2026 02:57
-be2a74b3-3de2-47e4-a577-6b66870bba7f,invasion.voyage,available,46.78,46.78,high,low,8,spaceship,,,27/09/2026 13:26
-b3ed0890-2c94-480a-bc10-b6430fc6cf45,contrasting.voyage,available,9.99,,high,low,11,name.com,,,
-a8dd9b8e-41ce-406c-8aca-647f0f81b683,tuba.voyage,available,58.99,58.99,high,low,4,namesilo,,,22/09/2026 11:52
-9b4765c0-ecdc-449f-b7f4-ebcb09bb13ef,adjuvant.voyage,available,9.99,83.99,high,low,8,name.com,,,
-adbf9ea3-a7f6-4961-8f91-00cb65a128e3,bacterium.voyage,available,58.99,58.99,medium,low,9,namesilo,,,21/09/2026 16:30
-0bf67495-70fc-4fea-93f4-279c3380c088,blear.voyage,available,9.99,83.99,medium,low,5,name.com,,,10/08/2026 14:01
-292061f3-d632-440d-8cfa-2c8c2dfb1c4b,gluey.voyage,available,9.99,83.99,medium,low,5,name.com,,,20/08/2026 15:16
-b57d661d-6ba8-4252-b6f9-06a66113f510,determined.voyage,available,58.99,58.99,high,low,10,namesilo,,,24/09/2026 07:38
-f8e7ffe6-bca3-4da4-b7a8-5963f0da1eb6,sessions.voyage,available,45.2,45.2,high,low,8,cloudflare,,,28/09/2026 03:02
-5ad024eb-05ac-46f8-9ed3-0fc09893859d,stopped.voyage,available,5.57,48.37,high,low,7,dynadot,,,28/09/2026 01:05
-2f25d141-2ea4-490e-919d-7636f41168db,amatory.voyage,available,9.99,83.99,high,low,7,name.com,,,
-692320f4-e2d4-4cf6-8735-acc7e28aed17,keeled.voyage,available,9.99,83.99,high,low,6,name.com,,,11/08/2026 19:16
-2d18fab0-950b-4835-b45d-a84887213343,glucose.voyage,available,58.99,58.99,high,low,7,namesilo,,,29/09/2026 01:05
-c11d5a61-bf0b-4fb9-b80b-57f3315ef4b1,innsbruck.voyage,available,61.98,73.98,high,low,9,namecheap,,,29/09/2026 07:21
-18fb15a7-6452-4838-96ac-0522d3b81d1f,etched.voyage,available,9.99,83.99,high,low,6,name.com,,,17/08/2026 07:41
-276e09cf-f9bf-47e7-8616-8112304b3704,facing.voyage,available,5.57,48.37,high,low,6,dynadot,,,29/09/2026 09:38
-0e4afd44-95c2-449c-be4e-fe120544a154,ole.voyage,available,9.99,,high,low,3,name.com,,,
-f493197a-c33b-46c7-b293-24ccf7527b9c,exobiology.voyage,available,58.99,58.99,medium,low,10,namesilo,,,20/09/2026 17:35
-341feeca-aef8-40df-9236-6876d7a2e116,kestrel.voyage,available,61.98,73.98,high,low,7,namecheap,,,18/09/2026 20:14
-7a9082f5-3b71-42b2-b96e-dfcd17adcb56,windup.voyage,available,58.99,58.99,high,low,6,namesilo,,,13/09/2026 12:18
-4a9b4a5c-f67c-43e9-b59b-e6809a3f460e,foliate.voyage,available,9.99,83.99,high,low,7,name.com,,,18/08/2026 10:15
